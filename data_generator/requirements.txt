@@ -1,0 +1,5 @@
+pymysql>=1.1.0
+cryptography>=42.0.0
+faker>=24.0.0
+pandas>=2.2.0
+python-dotenv>=1.0.0

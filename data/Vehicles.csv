@@ -1,0 +1,81 @@
+Vehicle_ID,Vehicle_Number,Vehicle_Type,Capacity_KG,Fuel_Type,Fuel_Efficiency,Driver_ID,Vehicle_Status,Registration_Date
+VEH_0001,IN-45-ER-4218,Heavy Multi-Axle Truck,25000,Diesel,3.8,DRV_0081,Active,2024-07-16
+VEH_0002,IN-12-QU-1511,Heavy Multi-Axle Truck,25000,Diesel,3.8,DRV_0075,Active,2025-08-01
+VEH_0003,IN-37-BR-5269,Refrigerated Container Truck,18000,Diesel,4.2,DRV_0070,Active,2024-05-02
+VEH_0004,IN-56-MH-5767,Medium Duty Truck,12000,Diesel,5.5,DRV_0065,Active,2022-07-15
+VEH_0005,IN-56-QA-4913,Electric Delivery Van,2200,Electric,12.0,DRV_0079,Active,2023-03-15
+VEH_0006,IN-27-OF-3935,Refrigerated Container Truck,18000,Diesel,4.2,DRV_0073,Active,2022-08-19
+VEH_0007,IN-71-LB-4585,Medium Duty Truck,12000,Diesel,5.5,DRV_0030,Active,2026-06-12
+VEH_0008,IN-39-BV-4387,Light Commercial Vehicle,4500,Diesel,8.5,DRV_0047,Active,2023-04-03
+VEH_0009,IN-15-BU-6309,Electric Delivery Van,2200,Electric,12.0,DRV_0067,Active,2022-01-06
+VEH_0010,IN-43-SR-3848,Light Commercial Vehicle,4500,Diesel,8.5,DRV_0049,Active,2025-11-25
+VEH_0011,IN-76-IM-4651,Heavy Multi-Axle Truck,25000,Diesel,3.8,DRV_0046,Active,2021-12-21
+VEH_0012,IN-72-ZP-1108,Light Commercial Vehicle,4500,Diesel,8.5,DRV_0018,Active,2023-05-02
+VEH_0013,IN-19-QU-5600,Medium Duty Truck,12000,Diesel,5.5,DRV_0024,Active,2023-06-09
+VEH_0014,IN-25-VH-7793,Refrigerated Container Truck,18000,Diesel,4.2,DRV_0093,Active,2022-05-02
+VEH_0015,IN-71-GS-3641,Electric Delivery Van,2200,Electric,12.0,DRV_0053,Active,2025-01-09
+VEH_0016,IN-26-SS-3639,Heavy Multi-Axle Truck,25000,Diesel,3.8,DRV_0066,Active,2024-02-27
+VEH_0017,IN-28-BF-5231,Refrigerated Container Truck,18000,Diesel,4.2,DRV_0067,Retired,2023-06-30
+VEH_0018,IN-82-UA-5644,Refrigerated Container Truck,18000,Diesel,4.2,DRV_0028,Active,2023-09-23
+VEH_0019,IN-71-FH-7730,Electric Delivery Van,2200,Electric,12.0,DRV_0075,Active,2024-03-21
+VEH_0020,IN-89-VQ-5333,Medium Duty Truck,12000,Diesel,5.5,DRV_0088,Active,2026-03-16
+VEH_0021,IN-86-SC-4765,Electric Delivery Van,2200,Electric,12.0,DRV_0017,Active,2022-05-04
+VEH_0022,IN-76-QV-7877,Medium Duty Truck,12000,Diesel,5.5,DRV_0078,Active,2025-08-11
+VEH_0023,IN-88-TB-9706,Electric Delivery Van,2200,Electric,12.0,DRV_0016,Active,2022-03-26
+VEH_0024,IN-87-RA-8069,Medium Duty Truck,12000,Diesel,5.5,DRV_0048,In Maintenance,2024-11-17
+VEH_0025,IN-64-HZ-8899,Refrigerated Container Truck,18000,Diesel,4.2,DRV_0049,Active,2026-02-26
+VEH_0026,IN-22-NE-5170,Refrigerated Container Truck,18000,Diesel,4.2,DRV_0030,In Maintenance,2021-11-02
+VEH_0027,IN-46-TR-7695,Heavy Multi-Axle Truck,25000,Diesel,3.8,DRV_0001,Active,2023-03-16
+VEH_0028,IN-83-QD-9515,Heavy Multi-Axle Truck,25000,Diesel,3.8,,Active,2024-07-10
+VEH_0029,IN-62-LD-3535,Light Commercial Vehicle,4500,Diesel,8.5,DRV_0075,Active,2025-03-28
+VEH_0030,IN-64-SL-5514,Refrigerated Container Truck,18000,Diesel,4.2,DRV_0051,Active,2025-01-26
+VEH_0031,IN-80-ZR-8904,Electric Delivery Van,2200,Electric,12.0,DRV_0072,Active,2023-01-29
+VEH_0032,IN-49-SL-7522,Light Commercial Vehicle,4500,Diesel,8.5,DRV_0085,Active,2022-09-08
+VEH_0033,IN-67-ZW-3650,Medium Duty Truck,12000,Diesel,5.5,DRV_0066,Active,2022-11-04
+VEH_0034,IN-80-TW-1852,Light Commercial Vehicle,4500,Diesel,8.5,DRV_0082,Active,2026-04-22
+VEH_0035,IN-28-PT-8133,Heavy Multi-Axle Truck,25000,Diesel,3.8,,Active,2025-04-20
+VEH_0036,IN-20-TB-7296,Light Commercial Vehicle,4500,Diesel,8.5,DRV_0052,Active,2025-10-23
+VEH_0037,IN-46-WT-1941,Refrigerated Container Truck,18000,Diesel,4.2,DRV_0023,Active,2022-04-30
+VEH_0038,IN-11-GV-9489,Electric Delivery Van,2200,Electric,12.0,DRV_0005,Active,2025-01-19
+VEH_0039,IN-76-WH-3776,Refrigerated Container Truck,18000,Diesel,4.2,DRV_0047,Active,2023-07-02
+VEH_0040,IN-30-CI-7544,Heavy Multi-Axle Truck,25000,Diesel,3.8,DRV_0051,Active,2022-11-06
+VEH_0041,IN-76-AX-2124,Medium Duty Truck,12000,Diesel,5.5,DRV_0071,Active,2023-06-30
+VEH_0042,IN-84-LL-5530,Refrigerated Container Truck,18000,Diesel,4.2,DRV_0025,Active,2024-05-18
+VEH_0043,IN-83-AI-3867,Electric Delivery Van,2200,Electric,12.0,DRV_0014,Active,2025-06-02
+VEH_0044,IN-47-KD-9409,Refrigerated Container Truck,18000,Diesel,4.2,DRV_0069,Active,2025-10-13
+VEH_0045,IN-42-WO-7178,Refrigerated Container Truck,18000,Diesel,4.2,DRV_0099,Active,2023-02-04
+VEH_0046,IN-68-VO-1448,Light Commercial Vehicle,4500,Diesel,8.5,DRV_0034,Active,2024-05-20
+VEH_0047,IN-96-WH-6172,Medium Duty Truck,12000,Diesel,5.5,DRV_0046,Active,2023-06-21
+VEH_0048,IN-99-IH-5706,Heavy Multi-Axle Truck,25000,Diesel,3.8,,Active,2026-01-07
+VEH_0049,IN-19-RF-8807,Light Commercial Vehicle,4500,Diesel,8.5,DRV_0028,In Maintenance,2025-08-24
+VEH_0050,IN-33-XV-4115,Light Commercial Vehicle,4500,Diesel,8.5,DRV_0026,Active,2024-02-01
+VEH_0051,IN-43-GH-4322,Medium Duty Truck,12000,Diesel,5.5,DRV_0080,Active,2023-06-17
+VEH_0052,IN-25-CV-9071,Heavy Multi-Axle Truck,25000,Diesel,3.8,DRV_0098,In Maintenance,2021-10-22
+VEH_0053,IN-71-LT-6167,Heavy Multi-Axle Truck,25000,Diesel,3.8,DRV_0074,In Maintenance,2022-12-16
+VEH_0054,IN-33-YQ-5591,Electric Delivery Van,2200,Electric,12.0,DRV_0097,Active,2025-07-14
+VEH_0055,IN-77-ZN-8836,Heavy Multi-Axle Truck,25000,Diesel,3.8,DRV_0005,Active,2022-04-15
+VEH_0056,IN-97-YF-8490,Electric Delivery Van,2200,Electric,12.0,DRV_0090,Active,2025-02-20
+VEH_0057,IN-98-AA-4452,Light Commercial Vehicle,4500,Diesel,8.5,DRV_0013,Active,2023-11-04
+VEH_0058,IN-43-FR-5306,Refrigerated Container Truck,18000,Diesel,4.2,DRV_0061,Retired,2026-03-20
+VEH_0059,IN-56-FP-7945,Light Commercial Vehicle,4500,Diesel,8.5,DRV_0090,Active,2024-07-16
+VEH_0060,IN-61-IO-3947,Light Commercial Vehicle,4500,Diesel,8.5,DRV_0074,Active,2025-12-02
+VEH_0061,IN-44-ZH-8081,Heavy Multi-Axle Truck,25000,Diesel,3.8,DRV_0026,Active,2025-08-28
+VEH_0062,IN-70-ZA-3893,Medium Duty Truck,12000,Diesel,5.5,DRV_0018,Retired,2025-09-05
+VEH_0063,IN-78-XK-8972,Refrigerated Container Truck,18000,Diesel,4.2,DRV_0072,In Maintenance,2022-01-28
+VEH_0064,IN-60-DW-3676,Heavy Multi-Axle Truck,25000,Diesel,3.8,,Active,2022-07-09
+VEH_0065,IN-90-DO-6483,Electric Delivery Van,2200,Electric,12.0,DRV_0047,Active,2024-03-11
+VEH_0066,IN-54-AN-2986,Light Commercial Vehicle,4500,Diesel,8.5,DRV_0087,Retired,2025-08-16
+VEH_0067,IN-83-SU-9821,Medium Duty Truck,12000,Diesel,5.5,DRV_0100,Active,2024-09-10
+VEH_0068,IN-96-QP-8322,Light Commercial Vehicle,4500,Diesel,8.5,DRV_0049,Active,2024-04-10
+VEH_0069,IN-90-EF-6527,Electric Delivery Van,2200,Electric,12.0,DRV_0079,Active,2025-01-26
+VEH_0070,IN-20-FK-4739,Heavy Multi-Axle Truck,25000,Diesel,3.8,DRV_0084,Active,2023-03-27
+VEH_0071,IN-87-UM-5444,Light Commercial Vehicle,4500,Diesel,8.5,DRV_0100,In Maintenance,2025-04-10
+VEH_0072,IN-85-QO-7782,Light Commercial Vehicle,4500,Diesel,8.5,DRV_0003,Active,2023-11-12
+VEH_0073,IN-94-IX-2311,Medium Duty Truck,12000,Diesel,5.5,DRV_0051,Active,2023-04-09
+VEH_0074,IN-70-RB-1431,Heavy Multi-Axle Truck,25000,Diesel,3.8,DRV_0068,Active,2025-06-02
+VEH_0075,IN-23-IT-3544,Heavy Multi-Axle Truck,25000,Diesel,3.8,,In Maintenance,2025-08-21
+VEH_0076,IN-49-HH-5655,Electric Delivery Van,2200,Electric,12.0,DRV_0017,Active,2025-01-06
+VEH_0077,IN-13-BV-6846,Medium Duty Truck,12000,Diesel,5.5,DRV_0042,In Maintenance,2023-04-21
+VEH_0078,IN-79-IR-8288,Electric Delivery Van,2200,Electric,12.0,DRV_0090,Active,2022-07-22
+VEH_0079,IN-86-OU-8126,Refrigerated Container Truck,18000,Diesel,4.2,DRV_0082,Active,2025-02-02
+VEH_0080,IN-71-RH-2467,Light Commercial Vehicle,4500,Diesel,8.5,DRV_0047,Active,2022-02-11

@@ -1,0 +1,78 @@
+// =============================================================================
+// Power Query M Scripts: Copy and Paste into Power Query Advanced Editor
+// Project: Real-Time Logistics & Delivery Performance Analytics
+// =============================================================================
+
+// -----------------------------------------------------------------------------
+// 1. DYNAMIC CALENDAR DIMENSION (DimDate)
+// Purpose: Generates a complete continuous date dimension table
+// -----------------------------------------------------------------------------
+let
+    StartDate = #date(2023, 1, 1),
+    EndDate = #date(2026, 12, 31),
+    NumberOfDays = Duration.Days(EndDate - StartDate) + 1,
+    DateList = List.Dates(StartDate, NumberOfDays, #duration(1, 0, 0, 0)),
+    #"Converted to Table" = Table.FromList(DateList, Splitter.SplitByNothing(), {"DateKey"}, null, ExtraValues.Error),
+    #"Changed Type" = Table.TransformColumnTypes(#"Converted to Table",{{"DateKey", type date}}),
+    #"Inserted Year" = Table.AddColumn(#"Changed Type", "Year", each Date.Year([DateKey]), Int64.Type),
+    #"Inserted Month" = Table.AddColumn(#"Inserted Year", "Month Number", each Date.Month([DateKey]), Int64.Type),
+    #"Inserted Month Name" = Table.AddColumn(#"Inserted Month", "Month Name", each Date.MonthName([DateKey]), type text),
+    #"Inserted Month Short" = Table.AddColumn(#"Inserted Month Name", "Month Short", each Date.ToText([DateKey], "MMM"), type text),
+    #"Inserted Month Year" = Table.AddColumn(#"Inserted Month Short", "Month Year", each Date.ToText([DateKey], "MMM yyyy"), type text),
+    #"Inserted Quarter" = Table.AddColumn(#"Inserted Month Year", "Quarter", each "Q" & Text.From(Date.QuarterOfYear([DateKey])), type text),
+    #"Inserted Day of Week" = Table.AddColumn(#"Inserted Quarter", "Day of Week", each Date.DayOfWeekName([DateKey]), type text),
+    #"Inserted Day Number" = Table.AddColumn(#"Inserted Day of Week", "Day Number of Week", each Date.DayOfWeek([DateKey], Day.Monday) + 1, Int64.Type),
+    #"Inserted Is Weekend" = Table.AddColumn(#"Inserted Day Number", "Is Weekend", each if Date.DayOfWeek([DateKey], Day.Monday) >= 5 then "Weekend" else "Weekday", type text)
+in
+    #"Inserted Is Weekend"
+
+
+// -----------------------------------------------------------------------------
+// 2. FACT SHIPMENTS TRANSFORMATION SCRIPT
+// Purpose: Ingests raw Shipments, applies data types, delay buckets, and distance tiers
+// -----------------------------------------------------------------------------
+let
+    Source = MySQL.Database("localhost:3306", "logistics_db", [ReturnSingleDatabase=true]),
+    Shipments_Table = Source{[Schema="logistics_db",Item="Shipments"]}[Data],
+    #"Changed Types" = Table.TransformColumnTypes(Shipments_Table,{
+        {"Shipment_ID", type text},
+        {"Order_ID", type text},
+        {"Vehicle_ID", type text},
+        {"Driver_ID", type text},
+        {"Dispatch_Time", type datetime},
+        {"Expected_Delivery_Time", type datetime},
+        {"Actual_Delivery_Time", type datetime},
+        {"Distance_KM", type number},
+        {"Shipment_Status", type text},
+        {"Shipping_Cost", Currency.Type},
+        {"Fuel_Cost", Currency.Type}
+    }),
+    #"Added Total Transit Hours" = Table.AddColumn(#"Changed Types", "Transit_Hours", each 
+        if [Actual_Delivery_Time] = null then null 
+        else Number.Round(Duration.TotalHours([Actual_Delivery_Time] - [Dispatch_Time]), 2), 
+        type number
+    ),
+    #"Added Delay Hours" = Table.AddColumn(#"Added Total Transit Hours", "Delay_Hours", each 
+        if [Actual_Delivery_Time] = null then null
+        else if [Actual_Delivery_Time] <= [Expected_Delivery_Time] then 0.0
+        else Number.Round(Duration.TotalHours([Actual_Delivery_Time] - [Expected_Delivery_Time]), 2), 
+        type number
+    ),
+    #"Added Delay Category" = Table.AddColumn(#"Added Delay Hours", "Delay_Category", each 
+        if [Actual_Delivery_Time] = null then "In Transit"
+        else if [Actual_Delivery_Time] <= [Expected_Delivery_Time] then "On Time"
+        else if [Delay_Hours] <= 2 then "0-2 Hours Late"
+        else if [Delay_Hours] <= 6 then "2-6 Hours Late"
+        else if [Delay_Hours] <= 12 then "6-12 Hours Late"
+        else "12+ Hours Late", 
+        type text
+    ),
+    #"Added Distance Tier" = Table.AddColumn(#"Added Delay Category", "Distance_Tier", each 
+        if [Distance_KM] < 150 then "Local (<150 KM)"
+        else if [Distance_KM] < 400 then "Regional (150-400 KM)"
+        else if [Distance_KM] < 800 then "Long Haul (400-800 KM)"
+        else "Inter-State (800+ KM)", 
+        type text
+    )
+in
+    #"Added Distance Tier"

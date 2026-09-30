@@ -1,0 +1,1001 @@
+Customer_ID,Customer_Name,Customer_Type,Phone,Email,City,State,Postal_Code,Registration_Date
+CUST_000001,Aryan Maharaj,Wholesale,+91-9668132202,udantdewan@example.net,Vellore,Tamil Nadu,690100,2024-03-07
+CUST_000002,Pahal Balay,E-Commerce,+91-9112327652,chandertejas@example.org,Coimbatore,Tamil Nadu,673055,2025-11-23
+CUST_000003,Rushil Saini,E-Commerce,+91-9925276600,saumyamall@example.org,Mumbai,Maharashtra,226971,2024-06-04
+CUST_000004,Harini Mall,Retail,+91-9269820594,tanveernayar@example.org,Kolkata,West Bengal,113403,2024-02-21
+CUST_000005,Gunbir Parmer,Wholesale,+91-9872751234,aishani07@example.net,Vellore,Tamil Nadu,634903,2024-04-10
+CUST_000006,Farhan Memon,E-Commerce,+91-9645119047,rehaan10@example.net,Coimbatore,Tamil Nadu,765675,2024-09-18
+CUST_000007,Fariq Kaul,Retail,+91-9786066793,raiarunima@example.com,Tiruchirappalli,Tamil Nadu,270264,2026-06-13
+CUST_000008,Nicholas Prabhakar,Retail,+91-9273461957,shaurya41@example.net,Chennai,Tamil Nadu,738039,2026-06-12
+CUST_000009,Yash Gade,Retail,+91-9120912992,rraghavan@example.net,Coimbatore,Tamil Nadu,490613,2026-02-11
+CUST_000010,Ekta Bhalla,E-Commerce,+91-9992994062,azadmutti@example.com,Tirupati,Andhra Pradesh,361084,2024-11-18
+CUST_000011,Siddharth Murty,Retail,+91-9709194872,xalakrandhawa@example.net,Hyderabad,Telangana,199815,2025-09-11
+CUST_000012,Alka Dewan,E-Commerce,+91-9976198296,adyasangha@example.net,Hyderabad,Telangana,668583,2025-06-11
+CUST_000013,Theodore Devi,E-Commerce,+91-9237859287,wchand@example.org,Ahmedabad,Gujarat,686511,2024-03-18
+CUST_000014,Nathaniel Sami,Retail,+91-9666585408,rajanlakshmi@example.net,Jaipur,Rajasthan,332087,2025-09-26
+CUST_000015,Advay Contractor,Wholesale,+91-9910959828,harini14@example.com,Tiruchirappalli,Tamil Nadu,436859,2024-06-01
+CUST_000016,Aarush Lall,Retail,+91-9821218382,yashicacherian@example.net,Pune,Maharashtra,569382,2025-01-05
+CUST_000017,Michael Prakash,E-Commerce,+91-9584779555,aadinaik@example.com,Coimbatore,Tamil Nadu,369948,2023-10-30
+CUST_000018,Janani Mohanty,Retail,+91-9463016614,dalbirkhosla@example.net,Chennai,Tamil Nadu,726887,2024-01-30
+CUST_000019,Vedika Biswas,Enterprise,+91-9731832764,kabirsoman@example.net,Salem,Tamil Nadu,117541,2024-06-12
+CUST_000020,Pallavi Kakar,Retail,+91-9777641645,devikarastogi@example.net,Bengaluru,Karnataka,350063,2026-07-05
+CUST_000021,Raksha Varughese,Retail,+91-9133729406,pdara@example.org,Mumbai,Maharashtra,184300,2024-01-07
+CUST_000022,Ansh Karpe,Enterprise,+91-9399012686,abhimanyubobal@example.net,Ahmedabad,Gujarat,334644,2026-06-06
+CUST_000023,Veer Bir,Enterprise,+91-9876693898,narayananekavir@example.net,Ahmedabad,Gujarat,364802,2024-10-03
+CUST_000024,Vedika Kala,E-Commerce,+91-9967043303,urvashikibe@example.com,Jaipur,Rajasthan,309660,2025-06-23
+CUST_000025,Girindra Chatterjee,Retail,+91-9807577342,bpandya@example.com,Jaipur,Rajasthan,481508,2025-09-24
+CUST_000026,Guneet Bhat,Enterprise,+91-9601463916,znori@example.org,Bengaluru,Karnataka,795198,2024-10-20
+CUST_000027,Ranveer Yadav,Wholesale,+91-9205675387,bdey@example.org,Bengaluru,Karnataka,532180,2024-12-05
+CUST_000028,Zaid Borra,E-Commerce,+91-9959629660,dchaudhari@example.net,Coimbatore,Tamil Nadu,370736,2026-01-16
+CUST_000029,Girik Khalsa,Retail,+91-9675832441,niharikasunder@example.com,Kolkata,West Bengal,256992,2024-08-27
+CUST_000030,Daniel Gala,Enterprise,+91-9399085574,yagate@example.com,Kolkata,West Bengal,371942,2025-09-05
+CUST_000031,Pallavi Sur,E-Commerce,+91-9180943908,ranveerminhas@example.org,Kolkata,West Bengal,687058,2023-12-29
+CUST_000032,Dipta Bhandari,Retail,+91-9800235246,soodyadavi@example.net,Chennai,Tamil Nadu,207794,2024-05-31
+CUST_000033,Yashoda Buch,Wholesale,+91-9353810544,ekapadbir@example.net,Madurai,Tamil Nadu,536157,2024-09-29
+CUST_000034,Jagdish Koshy,Enterprise,+91-9329509408,bumboni@example.net,Delhi,Delhi,171484,2026-03-24
+CUST_000035,Advika Jayaraman,Retail,+91-9102314313,william46@example.org,Delhi,Delhi,388086,2026-06-28
+CUST_000036,Tanvi Mutti,Wholesale,+91-9943026227,andratara@example.net,Kolkata,West Bengal,409106,2026-02-20
+CUST_000037,Ethan Yogi,Enterprise,+91-9884374109,yashawinilanka@example.org,Ahmedabad,Gujarat,272317,2025-03-25
+CUST_000038,Yash Pingle,Retail,+91-9333754555,nakul78@example.net,Bengaluru,Karnataka,717315,2025-01-11
+CUST_000039,Chandani Chawla,E-Commerce,+91-9165452690,aishanidalia@example.org,Mumbai,Maharashtra,169943,2026-02-05
+CUST_000040,Anita Manda,Retail,+91-9611947770,hemaljani@example.net,Madurai,Tamil Nadu,169643,2026-06-11
+CUST_000041,Yashasvi Suresh,Wholesale,+91-9186019028,charan16@example.com,Madurai,Tamil Nadu,181850,2023-12-07
+CUST_000042,Gauri De,Enterprise,+91-9825003955,neel78@example.net,Salem,Tamil Nadu,533390,2025-07-25
+CUST_000043,Isaac Borra,Retail,+91-9711684318,balendrapingle@example.net,Salem,Tamil Nadu,717041,2026-02-04
+CUST_000044,Qushi Datta,Enterprise,+91-9765055833,morarjanya@example.org,Hyderabad,Telangana,549590,2025-04-07
+CUST_000045,Zaid Chauhan,Enterprise,+91-9706907788,niharika92@example.org,Mumbai,Maharashtra,383433,2024-06-08
+CUST_000046,Nitara Bakshi,Retail,+91-9869005091,gaurangisabharwal@example.net,Mumbai,Maharashtra,360281,2024-10-19
+CUST_000047,Nathaniel Chokshi,Retail,+91-9240529481,ebarad@example.org,Tirupati,Andhra Pradesh,589435,2024-08-05
+CUST_000048,Inaya Mody,Retail,+91-9907308348,udantbajwa@example.net,Hyderabad,Telangana,119768,2024-07-26
+CUST_000049,Falguni Mallick,Enterprise,+91-9704509817,mallickindali@example.net,Coimbatore,Tamil Nadu,186820,2025-11-29
+CUST_000050,Garima Bala,Enterprise,+91-9643189555,lalpranav@example.net,Vellore,Tamil Nadu,248891,2024-11-15
+CUST_000051,Ikbal Saraf,Wholesale,+91-9173864104,dipta69@example.net,Salem,Tamil Nadu,497478,2024-03-27
+CUST_000052,Ranveer Kumar,Retail,+91-9570497096,sarinaarav@example.net,Tirupati,Andhra Pradesh,751391,2026-01-13
+CUST_000053,Januja Sankar,Wholesale,+91-9966616964,narayanandipta@example.net,Chennai,Tamil Nadu,691543,2024-04-10
+CUST_000054,Yashica More,Retail,+91-9812308209,znarain@example.net,Coimbatore,Tamil Nadu,250815,2025-01-01
+CUST_000055,Rehaan Salvi,Retail,+91-9214929002,nghosh@example.net,Kochi,Kerala,395578,2025-01-09
+CUST_000056,Aadi Modi,Retail,+91-9326161867,shivansh69@example.net,Mumbai,Maharashtra,323488,2026-07-13
+CUST_000057,Udyati Sathe,Enterprise,+91-9383450553,gkala@example.com,Ahmedabad,Gujarat,373320,2024-06-19
+CUST_000058,Bhanumati Varma,Wholesale,+91-9154544899,girik34@example.org,Hyderabad,Telangana,775096,2024-08-04
+CUST_000059,Aryan Batra,Enterprise,+91-9397083132,vaishnavibora@example.com,Bengaluru,Karnataka,113718,2025-07-04
+CUST_000060,Leena Talwar,Retail,+91-9240466536,jkohli@example.net,Vellore,Tamil Nadu,279431,2023-10-08
+CUST_000061,Pavani Kanda,E-Commerce,+91-9692362342,zarnashetty@example.org,Jaipur,Rajasthan,698154,2026-02-11
+CUST_000062,Jairaj Shan,Retail,+91-9180792472,ucchalwali@example.net,Kochi,Kerala,682093,2026-04-12
+CUST_000063,Saanvi Thaman,Retail,+91-9496442646,ksehgal@example.net,Kochi,Kerala,560665,2025-10-06
+CUST_000064,Aashi Kota,Retail,+91-9430989881,vedhika34@example.com,Pune,Maharashtra,151833,2024-01-28
+CUST_000065,Wahab Magar,E-Commerce,+91-9325567963,ekaja81@example.org,Salem,Tamil Nadu,217787,2024-05-21
+CUST_000066,Leela Dua,Retail,+91-9701170349,devanshsachdeva@example.com,Jaipur,Rajasthan,760811,2025-02-25
+CUST_000067,Ojasvi Bhatia,E-Commerce,+91-9354194771,osharamachandran@example.net,Madurai,Tamil Nadu,295653,2023-10-30
+CUST_000068,Vansha Ahuja,E-Commerce,+91-9126614158,chanchal66@example.net,Madurai,Tamil Nadu,458322,2026-01-25
+CUST_000069,Vinaya Kanda,E-Commerce,+91-9542073642,rajata70@example.com,Salem,Tamil Nadu,389767,2025-03-05
+CUST_000070,Noah Sibal,Retail,+91-9852991721,aviramesh@example.net,Coimbatore,Tamil Nadu,511125,2026-02-22
+CUST_000071,Fiyaz Sangha,E-Commerce,+91-9605399561,triyagopal@example.org,Salem,Tamil Nadu,319268,2024-11-07
+CUST_000072,Falak Kakar,E-Commerce,+91-9594246837,vnarain@example.com,Pune,Maharashtra,430016,2024-12-05
+CUST_000073,Zayyan Bumb,E-Commerce,+91-9344378798,vbahl@example.net,Salem,Tamil Nadu,134814,2023-12-19
+CUST_000074,Udarsh Biswas,Enterprise,+91-9527849588,balasubramanianyug@example.org,Mumbai,Maharashtra,402137,2023-10-31
+CUST_000075,William Date,E-Commerce,+91-9930353157,kcontractor@example.org,Vellore,Tamil Nadu,478204,2025-09-21
+CUST_000076,Jyoti Ganesh,Enterprise,+91-9529151399,gadedeepa@example.org,Mumbai,Maharashtra,138942,2026-03-16
+CUST_000077,Devika Prashad,Retail,+91-9380477683,eissac@example.net,Madurai,Tamil Nadu,718793,2026-05-31
+CUST_000078,Harsh Mitra,Wholesale,+91-9385042337,barmanidika@example.net,Bengaluru,Karnataka,223669,2025-07-26
+CUST_000079,Ekapad Toor,Enterprise,+91-9471178705,advik67@example.org,Mumbai,Maharashtra,567593,2025-08-03
+CUST_000080,Tripti Dua,Enterprise,+91-9649136331,ugoda@example.net,Coimbatore,Tamil Nadu,513907,2026-07-06
+CUST_000081,Veda Shroff,E-Commerce,+91-9304095531,uloyal@example.org,Vellore,Tamil Nadu,156543,2024-02-11
+CUST_000082,Shravya Kohli,E-Commerce,+91-9101815992,vraghavan@example.org,Tiruchirappalli,Tamil Nadu,491914,2025-11-05
+CUST_000083,Qabil Sura,Enterprise,+91-9813219781,ishakuruvilla@example.com,Mumbai,Maharashtra,763426,2024-12-07
+CUST_000084,Advaith Varughese,Retail,+91-9233815413,frederickkhurana@example.net,Tirupati,Andhra Pradesh,641757,2025-06-22
+CUST_000085,Wridesh Soni,Retail,+91-9538508549,ysem@example.org,Mumbai,Maharashtra,531948,2024-02-21
+CUST_000086,Timothy Ravel,Enterprise,+91-9695295870,daminipillay@example.com,Kochi,Kerala,311159,2026-02-05
+CUST_000087,Pavani Narayanan,Enterprise,+91-9507104143,sudiksha44@example.com,Madurai,Tamil Nadu,755415,2024-09-22
+CUST_000088,Reyansh Mutti,Enterprise,+91-9536019893,wasonqasim@example.org,Chennai,Tamil Nadu,428636,2024-08-31
+CUST_000089,Aradhana Vohra,Retail,+91-9561588882,harish34@example.org,Mumbai,Maharashtra,597576,2025-04-12
+CUST_000090,Chasmum Atwal,Enterprise,+91-9825449223,anushabath@example.org,Tiruchirappalli,Tamil Nadu,646005,2026-02-05
+CUST_000091,Jonathan Swaminathan,Enterprise,+91-9954725078,arorabhavani@example.com,Madurai,Tamil Nadu,198915,2025-10-12
+CUST_000092,Harini Gour,Retail,+91-9812807629,krishnanvanya@example.org,Mumbai,Maharashtra,207924,2024-01-09
+CUST_000093,Vyanjana Borah,E-Commerce,+91-9906528433,doshimanthan@example.net,Salem,Tamil Nadu,435499,2025-01-13
+CUST_000094,Yuvraj Dani,Retail,+91-9313814138,xkara@example.net,Kochi,Kerala,135612,2025-05-12
+CUST_000095,Saanvi Mishra,Retail,+91-9610173760,kmody@example.net,Hyderabad,Telangana,587539,2024-01-01
+CUST_000096,Sarthak Kakar,Enterprise,+91-9776205431,finn23@example.org,Tiruchirappalli,Tamil Nadu,512631,2026-02-03
+CUST_000097,Naksh Agate,Enterprise,+91-9361976301,sseshadri@example.net,Kochi,Kerala,797927,2025-09-28
+CUST_000098,Bachittar Kata,Enterprise,+91-9906341966,barkha71@example.net,Coimbatore,Tamil Nadu,555799,2024-09-26
+CUST_000099,Rudra Sandal,Retail,+91-9963406382,karmanthan@example.com,Kolkata,West Bengal,162658,2024-05-07
+CUST_000100,Darpan Gandhi,Enterprise,+91-9230307805,bhavya71@example.com,Kolkata,West Bengal,249817,2025-01-14
+CUST_000101,Anita Tella,E-Commerce,+91-9816806128,fsarma@example.net,Mumbai,Maharashtra,574072,2023-11-30
+CUST_000102,Ekantika Krishna,Enterprise,+91-9872314530,chandveer@example.net,Jaipur,Rajasthan,684486,2026-03-11
+CUST_000103,Amruta Baria,Enterprise,+91-9270894498,upmavenkataraman@example.net,Ahmedabad,Gujarat,581933,2025-08-16
+CUST_000104,Pratyush Sarin,Retail,+91-9365471644,echand@example.com,Vellore,Tamil Nadu,656623,2025-06-25
+CUST_000105,Ekani Cheema,Enterprise,+91-9356888294,forumsabharwal@example.net,Vellore,Tamil Nadu,571240,2025-11-07
+CUST_000106,Nandini Bansal,Retail,+91-9406798268,uchakrabarti@example.com,Salem,Tamil Nadu,394914,2025-02-13
+CUST_000107,Netra Varkey,Retail,+91-9679984033,shereodika@example.org,Hyderabad,Telangana,255096,2024-07-17
+CUST_000108,Wishi Sathe,Retail,+91-9511281012,janiamara@example.net,Kochi,Kerala,334346,2024-04-20
+CUST_000109,Raksha Sundaram,Retail,+91-9537656494,balakrishnanwriddhish@example.net,Mumbai,Maharashtra,678970,2024-06-02
+CUST_000110,Akshay Reddy,Enterprise,+91-9166857303,karishaan@example.com,Tiruchirappalli,Tamil Nadu,550553,2024-03-30
+CUST_000111,Wishi Manne,Retail,+91-9926561919,ojasvi77@example.org,Chennai,Tamil Nadu,713656,2025-09-08
+CUST_000112,Leela Halder,Retail,+91-9106330865,ekarajmajumdar@example.com,Pune,Maharashtra,423119,2025-03-10
+CUST_000113,Aarnav Mandal,E-Commerce,+91-9997356828,vrishti27@example.net,Jaipur,Rajasthan,674366,2025-10-21
+CUST_000114,Gaurangi Purohit,E-Commerce,+91-9686405096,mnagy@example.net,Salem,Tamil Nadu,621946,2024-10-04
+CUST_000115,Vivaan Roy,Retail,+91-9567975319,nadkarniurvashi@example.net,Ahmedabad,Gujarat,140435,2025-05-14
+CUST_000116,Max Tandon,Retail,+91-9818197581,dateyadavi@example.net,Delhi,Delhi,283062,2025-02-26
+CUST_000117,Ria Chaudhry,E-Commerce,+91-9237039296,uaurora@example.org,Chennai,Tamil Nadu,523161,2025-06-27
+CUST_000118,Falan Singh,Enterprise,+91-9811890569,hamsini96@example.net,Chennai,Tamil Nadu,198026,2024-02-01
+CUST_000119,Lajita Nadig,Enterprise,+91-9245706210,nbanik@example.org,Kolkata,West Bengal,300557,2024-09-28
+CUST_000120,Utkarsh Chana,Retail,+91-9507059676,wchaudhari@example.net,Mumbai,Maharashtra,331942,2024-03-04
+CUST_000121,Ojas Mistry,Enterprise,+91-9462388455,batraekta@example.org,Delhi,Delhi,401774,2024-12-28
+CUST_000122,Kavya Sankar,E-Commerce,+91-9993271900,yashwali@example.com,Jaipur,Rajasthan,374526,2026-02-25
+CUST_000123,Onkar Gill,E-Commerce,+91-9604988121,rajawridesh@example.com,Chennai,Tamil Nadu,675622,2026-03-23
+CUST_000124,Vincent Shenoy,Retail,+91-9475767056,tripti40@example.com,Salem,Tamil Nadu,791726,2024-12-19
+CUST_000125,Ethan Sathe,Retail,+91-9799816232,chandani64@example.com,Bengaluru,Karnataka,142538,2025-01-11
+CUST_000126,Leena Subramanian,Wholesale,+91-9314061901,khalsalakshmi@example.net,Chennai,Tamil Nadu,761518,2025-04-09
+CUST_000127,Chakrika Bains,Retail,+91-9235528741,amaharaj@example.net,Ahmedabad,Gujarat,229947,2023-12-15
+CUST_000128,Bhavini Karpe,Enterprise,+91-9334037646,theodore39@example.com,Kolkata,West Bengal,378691,2026-07-20
+CUST_000129,Gunbir Baral,E-Commerce,+91-9280162221,ridhi09@example.com,Coimbatore,Tamil Nadu,281721,2024-04-21
+CUST_000130,Chakrika Narain,Wholesale,+91-9216070149,mgill@example.org,Chennai,Tamil Nadu,437111,2026-01-14
+CUST_000131,Yachana Mahajan,Enterprise,+91-9502982778,aarinisubramaniam@example.com,Delhi,Delhi,317964,2025-03-09
+CUST_000132,Upadhriti Borra,Retail,+91-9841541582,upkaarranganathan@example.net,Salem,Tamil Nadu,216852,2025-04-20
+CUST_000133,Megha Atwal,Enterprise,+91-9423821937,jatin75@example.net,Coimbatore,Tamil Nadu,703424,2024-11-10
+CUST_000134,Kamya Chokshi,E-Commerce,+91-9472807202,urishillabakshi@example.net,Jaipur,Rajasthan,498572,2026-02-18
+CUST_000135,Timothy Bhatnagar,Retail,+91-9795294275,pmittal@example.com,Mumbai,Maharashtra,123267,2024-03-29
+CUST_000136,Chakradev Barad,E-Commerce,+91-9982971099,waida11@example.org,Ahmedabad,Gujarat,220666,2026-01-12
+CUST_000137,Lipika Setty,Enterprise,+91-9488896443,oni92@example.com,Kolkata,West Bengal,270423,2026-07-13
+CUST_000138,Vrishti Reddy,Enterprise,+91-9887906704,bachittar53@example.com,Vellore,Tamil Nadu,755831,2025-08-20
+CUST_000139,Janani Chaudhary,E-Commerce,+91-9677858758,jagrati06@example.com,Ahmedabad,Gujarat,597456,2024-07-20
+CUST_000140,Suhani Chand,Enterprise,+91-9884933416,anshbedi@example.com,Vellore,Tamil Nadu,447961,2024-10-12
+CUST_000141,Samesh Biswas,E-Commerce,+91-9991990632,tarakkaul@example.com,Hyderabad,Telangana,402478,2024-05-16
+CUST_000142,Aradhana Dhillon,E-Commerce,+91-9361846370,zashilghosh@example.org,Kolkata,West Bengal,707531,2026-07-22
+CUST_000143,Karan Aurora,Enterprise,+91-9506936666,wazir95@example.org,Mumbai,Maharashtra,140095,2024-06-26
+CUST_000144,Charles Date,Enterprise,+91-9448981305,hvora@example.net,Madurai,Tamil Nadu,621234,2024-01-06
+CUST_000145,Saumya Pathak,Retail,+91-9956665975,sethyahvi@example.org,Vellore,Tamil Nadu,466872,2026-05-12
+CUST_000146,Charvi Shanker,Retail,+91-9740116562,bhatvarenya@example.com,Vellore,Tamil Nadu,692790,2025-07-23
+CUST_000147,Vritti Sawhney,Retail,+91-9305145276,buchekanta@example.net,Hyderabad,Telangana,363081,2024-05-17
+CUST_000148,Jonathan Maharaj,E-Commerce,+91-9624606470,lakshmi98@example.com,Salem,Tamil Nadu,609220,2025-09-03
+CUST_000149,Hardik Contractor,Enterprise,+91-9627015393,qushiseth@example.org,Kolkata,West Bengal,128081,2025-07-03
+CUST_000150,Sudiksha Rastogi,Retail,+91-9337937327,uchandran@example.com,Delhi,Delhi,365124,2025-01-27
+CUST_000151,Kavya Dua,Retail,+91-9724440558,fbhavsar@example.org,Pune,Maharashtra,606250,2024-02-21
+CUST_000152,Gopal Pradhan,Enterprise,+91-9469106688,darpannarayan@example.net,Jaipur,Rajasthan,687125,2024-04-06
+CUST_000153,Irya Sampath,Retail,+91-9854684750,manidevika@example.com,Kolkata,West Bengal,394077,2024-03-08
+CUST_000154,Mohammed Subramaniam,Retail,+91-9347538338,hritikpalla@example.net,Coimbatore,Tamil Nadu,311940,2025-04-22
+CUST_000155,Arya Kara,Retail,+91-9897662466,mbal@example.net,Madurai,Tamil Nadu,310846,2024-11-18
+CUST_000156,Pranit Mahajan,Retail,+91-9619904272,harinakshi50@example.org,Vellore,Tamil Nadu,728227,2024-05-09
+CUST_000157,Ekaraj Dhar,Wholesale,+91-9663324548,chandtanveer@example.com,Tirupati,Andhra Pradesh,215410,2025-07-13
+CUST_000158,Harita Dugar,E-Commerce,+91-9418092217,devika59@example.net,Salem,Tamil Nadu,488412,2024-02-08
+CUST_000159,Nachiket Dugar,Retail,+91-9115191689,bumbanita@example.com,Kochi,Kerala,397637,2026-07-24
+CUST_000160,Vedika Sathe,Retail,+91-9158546865,nmahajan@example.net,Tirupati,Andhra Pradesh,242414,2024-03-24
+CUST_000161,Qushi Choudhry,Enterprise,+91-9908304440,vidhi84@example.org,Ahmedabad,Gujarat,217571,2024-09-06
+CUST_000162,Christopher Amble,E-Commerce,+91-9716396766,charvikakar@example.org,Tirupati,Andhra Pradesh,602199,2024-10-30
+CUST_000163,Falak Dar,Enterprise,+91-9465830215,tankqushi@example.org,Madurai,Tamil Nadu,163873,2024-04-17
+CUST_000164,Victor Tella,Retail,+91-9612957813,ekbal60@example.com,Coimbatore,Tamil Nadu,178518,2023-10-29
+CUST_000165,Faras Munshi,Enterprise,+91-9179545125,travel@example.net,Bengaluru,Karnataka,269098,2025-07-09
+CUST_000166,Ishwar Ravel,Retail,+91-9704344408,naironveer@example.net,Tirupati,Andhra Pradesh,199319,2025-09-13
+CUST_000167,Gaurang Sarkar,Wholesale,+91-9227186396,kohlirajata@example.net,Jaipur,Rajasthan,745771,2025-06-13
+CUST_000168,Meghana Mukherjee,Enterprise,+91-9764021648,timothy52@example.org,Salem,Tamil Nadu,657958,2025-12-01
+CUST_000169,Yashvi Hari,Retail,+91-9575368059,indali23@example.org,Tirupati,Andhra Pradesh,727114,2024-05-14
+CUST_000170,Rudra Ghose,Wholesale,+91-9427899537,faqidgoel@example.net,Bengaluru,Karnataka,749245,2025-11-05
+CUST_000171,Saumya Naidu,Wholesale,+91-9206551233,matthew71@example.com,Tiruchirappalli,Tamil Nadu,765901,2025-08-16
+CUST_000172,Anvi Bhalla,Retail,+91-9809129316,yashica14@example.com,Hyderabad,Telangana,274687,2025-09-01
+CUST_000173,Dakshesh Pillay,Retail,+91-9692697161,faraj19@example.net,Hyderabad,Telangana,274137,2025-11-25
+CUST_000174,Turvi Barman,Retail,+91-9583724666,uguha@example.net,Ahmedabad,Gujarat,415408,2025-10-07
+CUST_000175,David Seshadri,Retail,+91-9409350265,ozafrado@example.net,Tirupati,Andhra Pradesh,586087,2026-06-29
+CUST_000176,Balveer Kota,Retail,+91-9350636897,hsarna@example.net,Vellore,Tamil Nadu,765421,2026-05-04
+CUST_000177,Januja Pradhan,Enterprise,+91-9963187150,lila65@example.net,Tiruchirappalli,Tamil Nadu,555791,2026-04-15
+CUST_000178,Gaurika Bhatti,Retail,+91-9341387305,girindra86@example.com,Kochi,Kerala,388536,2024-10-25
+CUST_000179,Gauri Bumb,E-Commerce,+91-9176675731,inayamukherjee@example.net,Bengaluru,Karnataka,283983,2026-07-24
+CUST_000180,Kai Chad,E-Commerce,+91-9738923667,krisha52@example.net,Tirupati,Andhra Pradesh,570486,2025-12-25
+CUST_000181,Pallavi Trivedi,Retail,+91-9839462365,andrew54@example.org,Tirupati,Andhra Pradesh,532061,2024-08-27
+CUST_000182,Vedika Handa,Wholesale,+91-9637377910,lakshdubey@example.org,Ahmedabad,Gujarat,569024,2025-01-01
+CUST_000183,Yashica Zacharia,Retail,+91-9142800191,nayarkaran@example.net,Jaipur,Rajasthan,447979,2025-05-07
+CUST_000184,Nicholas Golla,Enterprise,+91-9127772220,rakshabassi@example.com,Hyderabad,Telangana,350045,2025-04-17
+CUST_000185,Sachi Mane,Wholesale,+91-9997603725,ikaur@example.org,Chennai,Tamil Nadu,392603,2025-01-22
+CUST_000186,Rishi Pillai,Enterprise,+91-9919382051,xshenoy@example.com,Madurai,Tamil Nadu,603356,2025-05-15
+CUST_000187,Neel Iyengar,Enterprise,+91-9574840200,zashilben@example.net,Vellore,Tamil Nadu,300306,2025-10-15
+CUST_000188,Harshil Varty,Wholesale,+91-9568027936,manefiyaz@example.org,Ahmedabad,Gujarat,205675,2024-11-26
+CUST_000189,Yochana Din,Enterprise,+91-9538460431,ochand@example.com,Mumbai,Maharashtra,446654,2025-03-26
+CUST_000190,Oeshi Bera,Enterprise,+91-9272684373,xthakkar@example.org,Mumbai,Maharashtra,541642,2025-05-21
+CUST_000191,Kavya Kapur,Enterprise,+91-9409471503,nagarhardik@example.net,Delhi,Delhi,686819,2026-07-05
+CUST_000192,Madhav Devan,Retail,+91-9194553481,mangaturmi@example.net,Mumbai,Maharashtra,374660,2024-05-02
+CUST_000193,Saumya Ahluwalia,Retail,+91-9929517022,bahlaahana@example.org,Delhi,Delhi,649594,2024-05-19
+CUST_000194,Indrajit Mani,E-Commerce,+91-9101235946,charvidara@example.org,Kolkata,West Bengal,543322,2024-10-04
+CUST_000195,Tanvi Bhatnagar,Retail,+91-9656670062,tataamol@example.net,Pune,Maharashtra,762879,2025-12-08
+CUST_000196,Maanas Manne,E-Commerce,+91-9771527524,nagarwal@example.com,Kolkata,West Bengal,164119,2024-10-07
+CUST_000197,Rachit Chada,Retail,+91-9689720101,ekansh88@example.net,Kochi,Kerala,412021,2025-11-26
+CUST_000198,Madhavi Singhal,Enterprise,+91-9849740261,ramkashvi@example.com,Ahmedabad,Gujarat,237325,2023-10-25
+CUST_000199,Ekansh Pai,Retail,+91-9776481264,hemangnatarajan@example.org,Salem,Tamil Nadu,276072,2023-12-07
+CUST_000200,Hamsini Gill,Retail,+91-9114682844,osrinivas@example.org,Jaipur,Rajasthan,207737,2024-04-26
+CUST_000201,Tanvi Bansal,Retail,+91-9221827951,saksham03@example.org,Kolkata,West Bengal,233173,2025-02-01
+CUST_000202,Yutika Rao,Enterprise,+91-9265325235,ckulkarni@example.net,Ahmedabad,Gujarat,416040,2024-07-22
+CUST_000203,Ishanvi Batta,Enterprise,+91-9393587744,anjali15@example.com,Jaipur,Rajasthan,615938,2025-06-12
+CUST_000204,Libni Nori,Wholesale,+91-9361704064,watikatank@example.com,Kolkata,West Bengal,688044,2025-12-14
+CUST_000205,Fitan Samra,Retail,+91-9304666325,sanipranit@example.net,Kochi,Kerala,183202,2024-12-29
+CUST_000206,Harshil Buch,Retail,+91-9948262678,chakrika47@example.net,Jaipur,Rajasthan,466386,2025-07-22
+CUST_000207,Sachi Panchal,Wholesale,+91-9645179180,ubasak@example.com,Vellore,Tamil Nadu,112690,2026-05-12
+CUST_000208,Anvi Bhandari,Retail,+91-9420571903,ravijanuja@example.net,Ahmedabad,Gujarat,265814,2024-06-04
+CUST_000209,Luke Sarma,Enterprise,+91-9620057604,dateekalinga@example.org,Pune,Maharashtra,458589,2026-06-28
+CUST_000210,Janaki Rajagopal,Enterprise,+91-9683503591,dubeshivani@example.com,Delhi,Delhi,587464,2025-04-29
+CUST_000211,Faraj Devan,Wholesale,+91-9302563940,mitali54@example.org,Salem,Tamil Nadu,709574,2024-03-24
+CUST_000212,Quincy Tata,Retail,+91-9932734539,qdalal@example.com,Jaipur,Rajasthan,155768,2025-08-23
+CUST_000213,Bhavika Swaminathan,Retail,+91-9607854378,jasondeshmukh@example.org,Delhi,Delhi,514833,2025-09-01
+CUST_000214,Sai Chahal,Wholesale,+91-9950826208,idika18@example.net,Kochi,Kerala,629390,2024-12-24
+CUST_000215,Nakul Ghosh,Wholesale,+91-9235555899,yashoda31@example.org,Mumbai,Maharashtra,215240,2024-05-02
+CUST_000216,Wakeeta Bal,E-Commerce,+91-9572775194,jyoti78@example.org,Coimbatore,Tamil Nadu,661500,2026-05-07
+CUST_000217,Dominic More,Wholesale,+91-9116479358,hsrinivas@example.com,Kochi,Kerala,539894,2025-06-27
+CUST_000218,Jeremiah Nadig,E-Commerce,+91-9265744099,senguptaunnati@example.net,Hyderabad,Telangana,602297,2025-12-11
+CUST_000219,Kabir Gopal,E-Commerce,+91-9384566044,rachitathakkar@example.org,Mumbai,Maharashtra,763535,2024-04-09
+CUST_000220,Daksha Gala,Enterprise,+91-9797756796,ekantikakar@example.com,Hyderabad,Telangana,454526,2025-12-14
+CUST_000221,Farhan Krishna,E-Commerce,+91-9672972597,anvidass@example.net,Delhi,Delhi,442044,2025-01-12
+CUST_000222,Yadavi Ganguly,Enterprise,+91-9915401487,onveernazareth@example.net,Ahmedabad,Gujarat,677297,2023-12-02
+CUST_000223,Finn Bath,Retail,+91-9173466219,shivansh96@example.net,Salem,Tamil Nadu,771821,2026-06-18
+CUST_000224,Widisha Mann,Enterprise,+91-9408570854,vasudha36@example.com,Salem,Tamil Nadu,204770,2025-09-03
+CUST_000225,Darpan Dugar,Enterprise,+91-9205702499,esagar@example.com,Coimbatore,Tamil Nadu,575231,2024-08-11
+CUST_000226,Maanas Munshi,Retail,+91-9421549249,hemani62@example.com,Chennai,Tamil Nadu,158226,2025-12-07
+CUST_000227,Eiravati Khurana,Retail,+91-9160257560,rdas@example.com,Tirupati,Andhra Pradesh,485877,2024-10-19
+CUST_000228,Gunbir Bedi,Retail,+91-9256304376,leena96@example.org,Salem,Tamil Nadu,666969,2024-06-04
+CUST_000229,Dhriti Gupta,Enterprise,+91-9832077572,wishivarma@example.com,Madurai,Tamil Nadu,288241,2025-11-12
+CUST_000230,Widisha Bajaj,Retail,+91-9754436820,ramaswamyyashasvi@example.com,Delhi,Delhi,759814,2024-10-07
+CUST_000231,Ira Bava,Enterprise,+91-9634366139,mandawarda@example.net,Kochi,Kerala,353468,2026-07-12
+CUST_000232,Bhavika Yadav,Enterprise,+91-9372706093,chokshiraagini@example.org,Kolkata,West Bengal,377730,2024-11-13
+CUST_000233,Neha Pau,Enterprise,+91-9963968184,rattancharan@example.net,Kolkata,West Bengal,411604,2026-02-18
+CUST_000234,Janani Mani,Enterprise,+91-9269625036,rajuyamini@example.com,Hyderabad,Telangana,573188,2026-01-31
+CUST_000235,Jagat Dave,Wholesale,+91-9730900313,rameshkashvi@example.com,Tirupati,Andhra Pradesh,779976,2026-02-12
+CUST_000236,Maanas Issac,Wholesale,+91-9841218491,ctella@example.org,Vellore,Tamil Nadu,589028,2023-11-29
+CUST_000237,Gauri Som,E-Commerce,+91-9313907621,mdixit@example.net,Delhi,Delhi,616681,2024-05-04
+CUST_000238,Eiravati Gaba,Retail,+91-9509486794,lmistry@example.com,Pune,Maharashtra,712734,2025-11-26
+CUST_000239,Chandani Soman,Retail,+91-9850845198,pillaygarima@example.net,Tirupati,Andhra Pradesh,133006,2024-03-18
+CUST_000240,Darika Bala,Wholesale,+91-9806768884,planka@example.net,Delhi,Delhi,397814,2026-03-15
+CUST_000241,Charan Srinivasan,Retail,+91-9836371599,lajitadivan@example.net,Bengaluru,Karnataka,745864,2024-10-10
+CUST_000242,Imaran Halder,E-Commerce,+91-9994253959,sastrydipta@example.com,Tirupati,Andhra Pradesh,351297,2024-05-22
+CUST_000243,Samar Roy,Enterprise,+91-9478301747,tbhatia@example.org,Salem,Tamil Nadu,777543,2025-12-13
+CUST_000244,Ekta Sridhar,Retail,+91-9369108475,lmurthy@example.com,Kochi,Kerala,768766,2026-01-05
+CUST_000245,Irya Lalla,Retail,+91-9773728014,phanda@example.com,Bengaluru,Karnataka,433940,2026-02-12
+CUST_000246,Umang Mishra,E-Commerce,+91-9135824891,sarthak75@example.com,Pune,Maharashtra,247796,2025-03-24
+CUST_000247,Bhavna Dara,Retail,+91-9416872439,wrana@example.org,Mumbai,Maharashtra,545687,2024-12-24
+CUST_000248,Bhavna Brar,Retail,+91-9241905500,riya47@example.org,Pune,Maharashtra,666640,2024-08-08
+CUST_000249,Anita Devan,Enterprise,+91-9392624015,khatrixavier@example.org,Madurai,Tamil Nadu,379453,2026-01-01
+CUST_000250,Viraj Ben,Wholesale,+91-9617380166,sachdevganga@example.net,Tirupati,Andhra Pradesh,465169,2025-10-02
+CUST_000251,Laksh Ahluwalia,E-Commerce,+91-9602866993,niharikasoni@example.com,Hyderabad,Telangana,257595,2026-07-06
+CUST_000252,Bhavna Nagi,E-Commerce,+91-9342251928,daniel19@example.org,Delhi,Delhi,694385,2026-01-08
+CUST_000253,Parth Sahni,Retail,+91-9948988297,balhaarranganathan@example.com,Delhi,Delhi,124595,2024-07-15
+CUST_000254,Baljiwan Andra,Retail,+91-9232702394,hredhaan54@example.com,Kolkata,West Bengal,496491,2026-06-22
+CUST_000255,Krish Thaman,Enterprise,+91-9821920438,mmahajan@example.org,Vellore,Tamil Nadu,722956,2025-02-24
+CUST_000256,Tara Kurian,Retail,+91-9785637052,akshaynazareth@example.com,Pune,Maharashtra,223610,2026-02-28
+CUST_000257,Parth Ravi,Enterprise,+91-9606244434,uvarma@example.org,Chennai,Tamil Nadu,759642,2025-06-13
+CUST_000258,Qasim Dey,E-Commerce,+91-9702806585,pnaik@example.org,Mumbai,Maharashtra,749718,2024-11-08
+CUST_000259,Warinder Sekhon,Retail,+91-9167878777,forum49@example.net,Kolkata,West Bengal,426870,2026-03-07
+CUST_000260,Advika Parsa,Enterprise,+91-9225279834,daviddani@example.com,Kochi,Kerala,157550,2025-01-18
+CUST_000261,Nidra Thakkar,Wholesale,+91-9426808977,jacob45@example.net,Ahmedabad,Gujarat,231762,2024-09-07
+CUST_000262,Kiaan Sridhar,Retail,+91-9677186272,suhaniprakash@example.com,Kochi,Kerala,517525,2026-01-30
+CUST_000263,Tejas Kota,Enterprise,+91-9819929088,vorasanya@example.net,Jaipur,Rajasthan,725871,2025-04-14
+CUST_000264,Isaac Bhatia,E-Commerce,+91-9265917699,masongala@example.com,Jaipur,Rajasthan,796736,2025-12-16
+CUST_000265,Jackson Jha,Retail,+91-9625432379,gchand@example.com,Jaipur,Rajasthan,403329,2023-12-25
+CUST_000266,Kevin Varghese,Retail,+91-9497853519,kshan@example.org,Tiruchirappalli,Tamil Nadu,574921,2026-02-14
+CUST_000267,Darika Bains,Enterprise,+91-9353524015,akumar@example.net,Pune,Maharashtra,214181,2024-09-02
+CUST_000268,Chakradev Sampath,Wholesale,+91-9494422907,devansh80@example.org,Pune,Maharashtra,173492,2025-10-02
+CUST_000269,Bhavini Rege,Retail,+91-9303805386,krishnasalvi@example.com,Coimbatore,Tamil Nadu,586806,2025-05-16
+CUST_000270,Krishna Prashad,Retail,+91-9327746886,zachariakiaan@example.net,Chennai,Tamil Nadu,163036,2025-03-23
+CUST_000271,Pranav Yogi,E-Commerce,+91-9361530104,iwadhwa@example.net,Kochi,Kerala,702003,2024-09-09
+CUST_000272,Arin Misra,Retail,+91-9991010113,isamra@example.com,Tiruchirappalli,Tamil Nadu,724868,2024-09-20
+CUST_000273,Triveni Pal,Retail,+91-9350180427,anyagulati@example.net,Mumbai,Maharashtra,264722,2024-03-23
+CUST_000274,Oni Babu,E-Commerce,+91-9739930411,samuelbhavsar@example.org,Chennai,Tamil Nadu,400744,2026-04-09
+CUST_000275,Sanya Bava,E-Commerce,+91-9255357534,chaitanyaratti@example.com,Kochi,Kerala,676457,2024-09-28
+CUST_000276,Daksh Dey,Retail,+91-9287364857,vivaan95@example.net,Coimbatore,Tamil Nadu,137033,2026-04-15
+CUST_000277,Warjas Mittal,Retail,+91-9484659715,timothysachdev@example.com,Salem,Tamil Nadu,727458,2024-11-30
+CUST_000278,Parth Sane,Retail,+91-9287095435,wbatta@example.net,Vellore,Tamil Nadu,164945,2025-05-14
+CUST_000279,Omaja Rege,Retail,+91-9552002959,charitapuri@example.org,Coimbatore,Tamil Nadu,176646,2026-01-12
+CUST_000280,Wridesh Kar,Enterprise,+91-9935389432,maanas70@example.net,Pune,Maharashtra,648170,2025-07-02
+CUST_000281,Krish Rama,Enterprise,+91-9585337126,aadhyajani@example.com,Salem,Tamil Nadu,754987,2026-06-30
+CUST_000282,Shivani Prabhakar,Retail,+91-9940983577,wasonrayaan@example.org,Tirupati,Andhra Pradesh,590293,2024-11-20
+CUST_000283,Balveer Bora,Enterprise,+91-9133447745,teerthsrinivas@example.org,Bengaluru,Karnataka,612249,2025-02-28
+CUST_000284,Alexander Kakar,E-Commerce,+91-9557707813,jacobsrinivas@example.org,Coimbatore,Tamil Nadu,624085,2026-04-25
+CUST_000285,Mekhala Khatri,E-Commerce,+91-9576271425,barkha67@example.net,Hyderabad,Telangana,194715,2026-07-03
+CUST_000286,Darika Lal,Retail,+91-9259272239,yochana77@example.org,Hyderabad,Telangana,242322,2025-09-28
+CUST_000287,Samar Prabhakar,Retail,+91-9779760958,odika09@example.org,Mumbai,Maharashtra,509408,2024-05-13
+CUST_000288,Advika Sahni,Wholesale,+91-9669681065,michael35@example.org,Tirupati,Andhra Pradesh,585756,2025-05-12
+CUST_000289,Xalak Nazareth,Enterprise,+91-9561923010,vrinda77@example.org,Coimbatore,Tamil Nadu,229972,2025-03-30
+CUST_000290,Logan Suresh,E-Commerce,+91-9798916441,danielviswanathan@example.org,Tiruchirappalli,Tamil Nadu,560962,2024-01-23
+CUST_000291,Abeer Sachar,Enterprise,+91-9345343109,vihaanbir@example.net,Jaipur,Rajasthan,465396,2024-05-21
+CUST_000292,Tejas Tiwari,E-Commerce,+91-9528133274,dprakash@example.net,Jaipur,Rajasthan,209705,2026-06-16
+CUST_000293,Vinaya Babu,Retail,+91-9435569630,walinisha@example.org,Vellore,Tamil Nadu,502484,2023-10-25
+CUST_000294,Bhavini Badal,Wholesale,+91-9837468465,ggola@example.org,Ahmedabad,Gujarat,180395,2025-12-22
+CUST_000295,Wridesh Handa,Retail,+91-9191659287,irya46@example.org,Hyderabad,Telangana,562856,2025-05-01
+CUST_000296,Tripti Kohli,Retail,+91-9893276164,charitabuch@example.net,Pune,Maharashtra,246436,2026-07-05
+CUST_000297,Girik Ravi,Enterprise,+91-9729712082,jpurohit@example.com,Mumbai,Maharashtra,238169,2023-12-26
+CUST_000298,Onveer Butala,Enterprise,+91-9814403943,psaraf@example.com,Jaipur,Rajasthan,163946,2026-02-25
+CUST_000299,Brijesh Karpe,Wholesale,+91-9744685429,vaishnavimadan@example.org,Tirupati,Andhra Pradesh,478728,2024-01-23
+CUST_000300,Bachittar Gola,Retail,+91-9644830077,amol39@example.org,Tiruchirappalli,Tamil Nadu,272247,2025-06-09
+CUST_000301,Chandani Gaba,Enterprise,+91-9340781088,lopazachariah@example.com,Coimbatore,Tamil Nadu,477122,2025-05-18
+CUST_000302,Farhan Tella,E-Commerce,+91-9494665673,chatresh16@example.org,Coimbatore,Tamil Nadu,402100,2024-01-26
+CUST_000303,Mekhala Narain,Enterprise,+91-9966747347,mahajanshravya@example.com,Jaipur,Rajasthan,698216,2024-09-18
+CUST_000304,Keya Sankaran,Wholesale,+91-9978779150,lajitachada@example.net,Chennai,Tamil Nadu,748578,2024-12-31
+CUST_000305,Ethan Butala,Wholesale,+91-9990626742,mitesh62@example.net,Vellore,Tamil Nadu,140360,2025-05-27
+CUST_000306,Jalsa Chhabra,Retail,+91-9854517058,ahluwaliadarika@example.com,Tirupati,Andhra Pradesh,466332,2025-04-11
+CUST_000307,Harsh Deo,Retail,+91-9294782734,groverraagini@example.com,Kochi,Kerala,703831,2026-02-11
+CUST_000308,Harshil Bal,Enterprise,+91-9174716780,pandyagirik@example.net,Kochi,Kerala,773929,2026-04-16
+CUST_000309,Lekha Arora,Wholesale,+91-9198524063,odika61@example.net,Tiruchirappalli,Tamil Nadu,504469,2026-02-15
+CUST_000310,Omkaar Rai,Enterprise,+91-9466034277,liamluthra@example.com,Madurai,Tamil Nadu,498029,2024-11-19
+CUST_000311,Madhav Bhatnagar,Retail,+91-9448303473,radhikamajumdar@example.com,Hyderabad,Telangana,165165,2025-01-07
+CUST_000312,Faraj Patel,Retail,+91-9910069356,yatin79@example.net,Bengaluru,Karnataka,195545,2024-07-29
+CUST_000313,Hredhaan Deshmukh,Retail,+91-9810751262,abeer65@example.net,Jaipur,Rajasthan,619254,2025-05-12
+CUST_000314,Ria Natt,Enterprise,+91-9544726404,tdeshpande@example.com,Vellore,Tamil Nadu,336041,2026-04-24
+CUST_000315,Varenya Murthy,E-Commerce,+91-9222210617,mitalinagar@example.com,Pune,Maharashtra,560798,2026-06-09
+CUST_000316,Xavier Nanda,Retail,+91-9828230915,ymand@example.com,Ahmedabad,Gujarat,662531,2025-04-19
+CUST_000317,Ryan Gole,Enterprise,+91-9148766522,shenoyshaurya@example.com,Salem,Tamil Nadu,524464,2024-12-25
+CUST_000318,Nilima Tata,Wholesale,+91-9158821683,chavvikhurana@example.com,Chennai,Tamil Nadu,324354,2026-07-19
+CUST_000319,Pallavi Purohit,Retail,+91-9326810757,senvarenya@example.net,Kochi,Kerala,377932,2025-06-13
+CUST_000320,Balhaar Parsa,Retail,+91-9228832213,choprayuvraj@example.net,Chennai,Tamil Nadu,631547,2026-07-28
+CUST_000321,Ojas Basu,E-Commerce,+91-9288650860,ynarula@example.com,Kochi,Kerala,508677,2024-03-12
+CUST_000322,Guneet Kuruvilla,Enterprise,+91-9347079497,yashvivenkataraman@example.net,Pune,Maharashtra,185577,2026-03-19
+CUST_000323,Sanaya Prasad,Retail,+91-9896760809,xsheth@example.net,Bengaluru,Karnataka,567410,2026-04-01
+CUST_000324,Hemani Bakshi,Retail,+91-9183604337,scheema@example.com,Mumbai,Maharashtra,713728,2024-02-10
+CUST_000325,Lucky Pall,Enterprise,+91-9534245762,hemal73@example.net,Jaipur,Rajasthan,413579,2025-10-19
+CUST_000326,Vamakshi Chatterjee,Retail,+91-9122394554,usethi@example.org,Mumbai,Maharashtra,290223,2025-01-08
+CUST_000327,Ishwar Bajaj,E-Commerce,+91-9763706947,ikbal23@example.net,Kolkata,West Bengal,489431,2024-06-27
+CUST_000328,Ganga Sandhu,Retail,+91-9213669678,zkata@example.com,Salem,Tamil Nadu,566840,2026-06-04
+CUST_000329,Quincy Sankaran,Enterprise,+91-9662600500,vbalakrishnan@example.net,Hyderabad,Telangana,524992,2024-08-01
+CUST_000330,Pushti Ramachandran,E-Commerce,+91-9900801837,kalasamesh@example.com,Mumbai,Maharashtra,342336,2024-01-05
+CUST_000331,Rachit Pau,Retail,+91-9280531127,ronith71@example.com,Hyderabad,Telangana,645281,2025-10-29
+CUST_000332,Lipika Ramanathan,Enterprise,+91-9669732591,pallindira@example.com,Tiruchirappalli,Tamil Nadu,476347,2026-05-16
+CUST_000333,Chameli Chad,Retail,+91-9979339361,dhritidalal@example.org,Kochi,Kerala,357746,2025-01-16
+CUST_000334,Qadim Prakash,Retail,+91-9374843786,yastirama@example.com,Tiruchirappalli,Tamil Nadu,291927,2026-04-13
+CUST_000335,Leela Sampath,Enterprise,+91-9916274954,vidhiyogi@example.net,Hyderabad,Telangana,295752,2026-06-28
+CUST_000336,Ojas Suri,Wholesale,+91-9774254861,logan25@example.com,Ahmedabad,Gujarat,596491,2026-05-19
+CUST_000337,Jagrati Andra,E-Commerce,+91-9915911873,mdeshpande@example.com,Kolkata,West Bengal,701913,2026-02-18
+CUST_000338,Nilima Swamy,Enterprise,+91-9770575153,fsawhney@example.org,Mumbai,Maharashtra,767686,2024-02-05
+CUST_000339,Thomas Master,Retail,+91-9572191734,maharajumang@example.net,Hyderabad,Telangana,601700,2024-12-21
+CUST_000340,Tanvi Tandon,Enterprise,+91-9425150964,comaramrita@example.net,Vellore,Tamil Nadu,730149,2025-04-21
+CUST_000341,Ridhi Kamdar,Retail,+91-9644748834,vchaudry@example.net,Hyderabad,Telangana,435487,2024-10-18
+CUST_000342,Bachittar Sengupta,Enterprise,+91-9140380477,ijaya17@example.org,Bengaluru,Karnataka,496650,2024-10-02
+CUST_000343,Indali Sangha,E-Commerce,+91-9182389284,liamjhaveri@example.org,Hyderabad,Telangana,754884,2023-12-31
+CUST_000344,Avni Yohannan,Enterprise,+91-9512834919,ekiyamaster@example.com,Kolkata,West Bengal,718520,2026-03-07
+CUST_000345,Yoshita Chandran,Enterprise,+91-9950207886,nishabhargava@example.com,Bengaluru,Karnataka,581580,2026-07-14
+CUST_000346,Kevin Krish,Wholesale,+91-9713811693,ekantakota@example.net,Tiruchirappalli,Tamil Nadu,447146,2025-06-01
+CUST_000347,Lucky Luthra,Enterprise,+91-9638339044,cprashad@example.org,Kochi,Kerala,174880,2026-06-10
+CUST_000348,Neha Varma,Enterprise,+91-9970768982,jyoti77@example.com,Mumbai,Maharashtra,198426,2026-03-22
+CUST_000349,Girik Shanker,Enterprise,+91-9285283722,dev86@example.org,Bengaluru,Karnataka,369779,2025-07-28
+CUST_000350,Warda Loyal,E-Commerce,+91-9571825556,bhanumati58@example.net,Madurai,Tamil Nadu,491575,2024-04-19
+CUST_000351,Hemal Bava,Retail,+91-9403754671,chaudharytripti@example.org,Delhi,Delhi,538626,2024-04-09
+CUST_000352,Ridhi Shan,E-Commerce,+91-9828960875,sanghasamaksh@example.net,Bengaluru,Karnataka,771533,2024-04-21
+CUST_000353,Nathan Mahal,Enterprise,+91-9170772317,patelzashil@example.org,Mumbai,Maharashtra,209097,2025-04-29
+CUST_000354,Charles Randhawa,Enterprise,+91-9515070154,vivaan61@example.net,Tirupati,Andhra Pradesh,374237,2024-02-24
+CUST_000355,Tanay Sood,E-Commerce,+91-9804980312,deoupkaar@example.net,Kochi,Kerala,459556,2025-08-21
+CUST_000356,Abhiram Oza,Retail,+91-9812548074,samikevin@example.com,Kochi,Kerala,476814,2024-01-18
+CUST_000357,Leela Chakraborty,Retail,+91-9804433388,chauhandhriti@example.com,Delhi,Delhi,245216,2025-01-06
+CUST_000358,Lavanya Deol,Enterprise,+91-9190966348,ekapadwali@example.net,Tirupati,Andhra Pradesh,696073,2023-10-13
+CUST_000359,Ria Panchal,Retail,+91-9950040559,maxsabharwal@example.net,Mumbai,Maharashtra,244002,2025-08-17
+CUST_000360,Gabriel Chaudhry,Enterprise,+91-9990087914,jatinrajagopalan@example.com,Hyderabad,Telangana,787407,2025-07-28
+CUST_000361,Logan Kota,Enterprise,+91-9645985356,frado38@example.net,Pune,Maharashtra,129117,2026-04-19
+CUST_000362,Avi Mitra,Retail,+91-9293555835,zarnaupadhyay@example.org,Tiruchirappalli,Tamil Nadu,468333,2025-05-30
+CUST_000363,Chatura Khatri,Wholesale,+91-9622129427,hraju@example.org,Tiruchirappalli,Tamil Nadu,347548,2025-11-14
+CUST_000364,Advik Patel,Wholesale,+91-9266371119,kevin69@example.com,Hyderabad,Telangana,420161,2025-04-19
+CUST_000365,Urishilla Bora,E-Commerce,+91-9208599066,birakshay@example.com,Bengaluru,Karnataka,463124,2024-08-30
+CUST_000366,Darpan Rao,E-Commerce,+91-9763606238,yachana66@example.net,Kochi,Kerala,736259,2025-06-15
+CUST_000367,Michael Mall,Retail,+91-9274211616,mukherjeefarhan@example.net,Madurai,Tamil Nadu,765088,2024-08-10
+CUST_000368,Eta Raman,E-Commerce,+91-9277746324,mukherjeerajeshri@example.net,Kolkata,West Bengal,155815,2024-10-04
+CUST_000369,Yash Chadha,Enterprise,+91-9826239153,ddalia@example.net,Salem,Tamil Nadu,575777,2026-05-02
+CUST_000370,Dayamai Gill,Enterprise,+91-9907873857,aroralaksh@example.net,Kolkata,West Bengal,355370,2023-10-17
+CUST_000371,Watika Palan,Enterprise,+91-9432288618,ojas52@example.net,Ahmedabad,Gujarat,313441,2024-11-20
+CUST_000372,Ayushman Nayak,Retail,+91-9712483158,hmagar@example.org,Kolkata,West Bengal,594107,2024-11-11
+CUST_000373,Watika Shah,E-Commerce,+91-9935504321,christopher79@example.org,Delhi,Delhi,637336,2025-04-23
+CUST_000374,Aadhya Chauhan,Enterprise,+91-9274008639,kariyashodhara@example.org,Tiruchirappalli,Tamil Nadu,744036,2023-12-07
+CUST_000375,Yash Batra,Retail,+91-9368438908,ypatla@example.org,Bengaluru,Karnataka,782325,2024-07-04
+CUST_000376,Oni Kapur,Enterprise,+91-9498585961,yuvraj65@example.com,Coimbatore,Tamil Nadu,650971,2024-01-28
+CUST_000377,Jagdish Thakkar,E-Commerce,+91-9406084084,golaudant@example.net,Hyderabad,Telangana,278100,2023-12-10
+CUST_000378,Ekapad Shroff,Retail,+91-9651208305,deepa51@example.net,Kochi,Kerala,568724,2025-09-08
+CUST_000379,Jyoti Iyer,Retail,+91-9338411494,daksha93@example.com,Kolkata,West Bengal,476567,2025-04-24
+CUST_000380,Rohan Korpal,Wholesale,+91-9545492166,abeerrout@example.org,Bengaluru,Karnataka,525713,2024-09-25
+CUST_000381,Aditya Nayak,Enterprise,+91-9353164777,puridamyanti@example.org,Delhi,Delhi,195570,2024-08-13
+CUST_000382,Oni Swamy,Retail,+91-9130266145,dharati@example.org,Mumbai,Maharashtra,213897,2023-12-07
+CUST_000383,Zinal Sachar,E-Commerce,+91-9797889971,tara19@example.org,Mumbai,Maharashtra,263144,2025-11-23
+CUST_000384,Meera Borde,Retail,+91-9408034406,sarankalpit@example.org,Ahmedabad,Gujarat,255535,2024-12-26
+CUST_000385,Divya Ramaswamy,E-Commerce,+91-9603703167,eesha74@example.org,Kolkata,West Bengal,755240,2024-01-24
+CUST_000386,Laban Chopra,Retail,+91-9185068029,hiteshgala@example.com,Chennai,Tamil Nadu,378356,2025-09-22
+CUST_000387,Niharika Dara,Retail,+91-9260545470,sarthak74@example.com,Jaipur,Rajasthan,226588,2024-11-14
+CUST_000388,Gautam Dugar,E-Commerce,+91-9355164255,banjeet35@example.org,Tirupati,Andhra Pradesh,237768,2024-02-18
+CUST_000389,Ishani Randhawa,Retail,+91-9550784243,mistryabha@example.org,Kolkata,West Bengal,175859,2023-11-17
+CUST_000390,Sneha Krish,Retail,+91-9636687537,shereharsh@example.org,Chennai,Tamil Nadu,772653,2024-04-05
+CUST_000391,David Kapadia,Enterprise,+91-9359779090,rudrarattan@example.com,Kochi,Kerala,415421,2026-06-05
+CUST_000392,Aashi Borde,Enterprise,+91-9760146764,bhattacharyyarudra@example.net,Pune,Maharashtra,362250,2025-08-18
+CUST_000393,George Narula,Enterprise,+91-9301126777,basaktriya@example.org,Hyderabad,Telangana,658914,2024-06-16
+CUST_000394,Megha Taneja,Wholesale,+91-9172670118,rajapooja@example.org,Chennai,Tamil Nadu,519421,2025-04-01
+CUST_000395,Rachit Maharaj,E-Commerce,+91-9146744734,sanaya20@example.net,Delhi,Delhi,501436,2026-05-18
+CUST_000396,Chakrika Tara,Retail,+91-9117439966,dsrinivas@example.org,Pune,Maharashtra,180842,2024-12-07
+CUST_000397,Laksh Saini,Retail,+91-9886989426,zaidbahl@example.com,Coimbatore,Tamil Nadu,720170,2025-04-09
+CUST_000398,Vedhika Padmanabhan,E-Commerce,+91-9457039137,lipika42@example.org,Kochi,Kerala,156490,2025-02-06
+CUST_000399,Ayushman Mand,Retail,+91-9463512350,sodhiishita@example.net,Madurai,Tamil Nadu,597193,2024-09-25
+CUST_000400,Harish Kota,Wholesale,+91-9613818935,amairawalla@example.net,Madurai,Tamil Nadu,251404,2023-12-25
+CUST_000401,Lipika Pant,Retail,+91-9933428091,patrickkhalsa@example.net,Kolkata,West Bengal,148781,2025-02-05
+CUST_000402,Ayaan Pandey,Retail,+91-9147036629,raghavtailor@example.net,Tiruchirappalli,Tamil Nadu,153942,2025-01-22
+CUST_000403,Vritti Barad,Retail,+91-9432941445,bhallaviraj@example.net,Delhi,Delhi,679409,2024-09-03
+CUST_000404,Vanya Acharya,Enterprise,+91-9139321248,saksham25@example.net,Tiruchirappalli,Tamil Nadu,410010,2024-07-01
+CUST_000405,Daniel Bains,Retail,+91-9938422254,luckychoudhry@example.net,Bengaluru,Karnataka,797585,2025-04-18
+CUST_000406,Kashvi Randhawa,Retail,+91-9233654018,nayarchasmum@example.com,Pune,Maharashtra,568177,2024-04-28
+CUST_000407,Rajeshri Sur,E-Commerce,+91-9898120571,owen89@example.com,Kolkata,West Bengal,515427,2024-09-10
+CUST_000408,Kritika Mohanty,Retail,+91-9300593456,joshua20@example.net,Ahmedabad,Gujarat,631692,2026-03-07
+CUST_000409,Bachittar Gopal,Retail,+91-9956084565,timothy91@example.com,Vellore,Tamil Nadu,196625,2024-05-05
+CUST_000410,Faras Khanna,E-Commerce,+91-9184747224,ekaja21@example.net,Jaipur,Rajasthan,741719,2026-06-18
+CUST_000411,Sanya Apte,Wholesale,+91-9293763673,shaurya31@example.com,Tirupati,Andhra Pradesh,446815,2024-11-01
+CUST_000412,Aarav Bava,Retail,+91-9452101316,usarma@example.com,Tirupati,Andhra Pradesh,431385,2024-06-14
+CUST_000413,Waida Radhakrishnan,Enterprise,+91-9870584681,keya17@example.net,Jaipur,Rajasthan,284740,2026-07-07
+CUST_000414,Nicholas Seth,Enterprise,+91-9477470703,bandichaitaly@example.org,Kolkata,West Bengal,154413,2025-02-06
+CUST_000415,Henry Borah,E-Commerce,+91-9478557676,onkar62@example.net,Jaipur,Rajasthan,397893,2024-01-24
+CUST_000416,Hamsini Subramanian,Enterprise,+91-9949842840,sankarnitesh@example.net,Bengaluru,Karnataka,188687,2025-08-04
+CUST_000417,Chatresh Chaudhuri,Enterprise,+91-9536164913,samesh36@example.net,Pune,Maharashtra,648010,2026-02-06
+CUST_000418,Baghyawati Mishra,E-Commerce,+91-9829511584,gopalbawa@example.com,Madurai,Tamil Nadu,142654,2026-03-06
+CUST_000419,Mitesh Bhagat,Retail,+91-9752376434,aarush61@example.com,Kolkata,West Bengal,146490,2026-07-24
+CUST_000420,Ryan Chatterjee,Retail,+91-9353398109,jhaverionkar@example.net,Pune,Maharashtra,489743,2024-12-26
+CUST_000421,Urvashi D’Alia,Retail,+91-9709074302,mitali77@example.net,Bengaluru,Karnataka,744488,2024-11-14
+CUST_000422,Lila Goyal,Retail,+91-9583100677,lakshmi52@example.com,Pune,Maharashtra,500085,2023-12-08
+CUST_000423,Ria Shroff,Enterprise,+91-9182555101,upkaar49@example.org,Kochi,Kerala,665179,2024-05-21
+CUST_000424,Frederick Padmanabhan,Retail,+91-9437568796,jkaran@example.org,Vellore,Tamil Nadu,371737,2025-05-23
+CUST_000425,Vaishnavi Keer,Wholesale,+91-9127824235,fmistry@example.com,Madurai,Tamil Nadu,633286,2023-11-22
+CUST_000426,Jai Sen,Enterprise,+91-9703091482,oliverkakar@example.org,Coimbatore,Tamil Nadu,384493,2024-04-13
+CUST_000427,Pallavi Brar,E-Commerce,+91-9855954847,ojaggi@example.org,Kolkata,West Bengal,334994,2026-04-11
+CUST_000428,Ekaja Bhavsar,Wholesale,+91-9406635834,ramamekhala@example.net,Ahmedabad,Gujarat,319903,2025-02-17
+CUST_000429,Zinal Shanker,Retail,+91-9179512774,virkoni@example.org,Kolkata,West Bengal,291044,2025-07-04
+CUST_000430,Manbir Chaudhry,E-Commerce,+91-9577934499,chaudhuribhavika@example.net,Hyderabad,Telangana,445113,2025-03-17
+CUST_000431,Aishani Rajagopal,Enterprise,+91-9861863296,csolanki@example.org,Hyderabad,Telangana,686714,2024-11-30
+CUST_000432,Maanas Ratti,Enterprise,+91-9422076028,randhawagarima@example.net,Madurai,Tamil Nadu,778677,2024-10-03
+CUST_000433,Vaishnavi Luthra,Retail,+91-9488149273,anmol54@example.com,Salem,Tamil Nadu,237258,2024-12-08
+CUST_000434,Guneet Kari,Wholesale,+91-9950474042,charitasavant@example.com,Kochi,Kerala,358236,2024-11-21
+CUST_000435,Gaurav Guha,E-Commerce,+91-9128222260,akakar@example.net,Pune,Maharashtra,690934,2025-10-21
+CUST_000436,Daksh Varma,Enterprise,+91-9601873197,dominicmukhopadhyay@example.net,Kochi,Kerala,751675,2025-11-25
+CUST_000437,Krishna Viswanathan,E-Commerce,+91-9170596494,ghosereyansh@example.org,Tirupati,Andhra Pradesh,527501,2023-12-28
+CUST_000438,Bachittar Shan,Wholesale,+91-9871880418,patelrushil@example.com,Ahmedabad,Gujarat,661232,2025-04-24
+CUST_000439,Yashasvi Ranganathan,Enterprise,+91-9539625898,balasubramanianwyatt@example.com,Hyderabad,Telangana,241415,2025-10-28
+CUST_000440,Peter Som,Wholesale,+91-9789705810,hemangini24@example.net,Hyderabad,Telangana,581833,2024-02-17
+CUST_000441,Ayaan Raju,Enterprise,+91-9655511084,gabatanish@example.org,Pune,Maharashtra,244569,2026-07-01
+CUST_000442,Samuel Luthra,E-Commerce,+91-9937800943,bvarghese@example.net,Madurai,Tamil Nadu,245301,2023-10-13
+CUST_000443,Kevin Ghose,Enterprise,+91-9159499094,kapurzayyan@example.net,Coimbatore,Tamil Nadu,653270,2025-01-16
+CUST_000444,Pallavi Puri,Retail,+91-9276799196,tripti43@example.com,Madurai,Tamil Nadu,448335,2025-01-11
+CUST_000445,Harsh Amble,Wholesale,+91-9342096876,barkha41@example.com,Pune,Maharashtra,654104,2024-01-07
+CUST_000446,Aradhana Nair,E-Commerce,+91-9184675178,advika43@example.org,Vellore,Tamil Nadu,315838,2025-12-11
+CUST_000447,Dakshesh Raval,Enterprise,+91-9691461470,logan07@example.com,Vellore,Tamil Nadu,241251,2024-11-06
+CUST_000448,Nidhi Rama,Enterprise,+91-9759737342,guptahemal@example.net,Hyderabad,Telangana,636987,2024-09-09
+CUST_000449,Jagrati Tripathi,Enterprise,+91-9735449477,onkar82@example.com,Kochi,Kerala,289517,2024-02-28
+CUST_000450,Kabir Kuruvilla,Enterprise,+91-9873773537,gautamichakraborty@example.org,Mumbai,Maharashtra,700997,2025-04-03
+CUST_000451,Damyanti Salvi,Retail,+91-9130465806,kamya49@example.com,Hyderabad,Telangana,157671,2025-09-19
+CUST_000452,Upma Bera,Wholesale,+91-9927878967,sodhirobert@example.net,Vellore,Tamil Nadu,792760,2024-04-03
+CUST_000453,Chanchal Sachdev,Retail,+91-9714327645,doralaksh@example.org,Jaipur,Rajasthan,758134,2025-03-15
+CUST_000454,Tanvi Dhar,Enterprise,+91-9634764290,pranit17@example.com,Tirupati,Andhra Pradesh,783089,2026-06-06
+CUST_000455,Dhriti Bhardwaj,Wholesale,+91-9618558050,sethanusha@example.org,Salem,Tamil Nadu,535819,2024-06-17
+CUST_000456,Vrishti Chakrabarti,Retail,+91-9178354184,radhasanghvi@example.com,Bengaluru,Karnataka,275760,2025-07-27
+CUST_000457,Leela Agrawal,Enterprise,+91-9619960692,wallaryan@example.net,Kolkata,West Bengal,323934,2025-05-01
+CUST_000458,Ekanta Wali,Retail,+91-9254263081,andrewagrawal@example.net,Mumbai,Maharashtra,444828,2024-10-20
+CUST_000459,Hemangini Muni,E-Commerce,+91-9470838810,harshilrajagopal@example.net,Delhi,Delhi,247119,2026-04-01
+CUST_000460,Oliver Bhattacharyya,E-Commerce,+91-9652955706,misrabina@example.com,Coimbatore,Tamil Nadu,444618,2025-12-16
+CUST_000461,Radha Desai,Retail,+91-9231556899,vrishti53@example.org,Vellore,Tamil Nadu,581436,2025-06-17
+CUST_000462,Vedant Kapur,Retail,+91-9203950725,siddharthbains@example.net,Bengaluru,Karnataka,414310,2025-11-21
+CUST_000463,Jatin Peri,Wholesale,+91-9760756497,prashadaadhya@example.net,Jaipur,Rajasthan,370331,2026-05-25
+CUST_000464,Chanakya Chokshi,Wholesale,+91-9271476207,bavajack@example.com,Mumbai,Maharashtra,715749,2025-08-20
+CUST_000465,Jatin Krishnan,E-Commerce,+91-9303832812,ndua@example.net,Madurai,Tamil Nadu,632470,2026-06-05
+CUST_000466,Charvi Salvi,Wholesale,+91-9601238919,venkateshanamika@example.net,Ahmedabad,Gujarat,433529,2026-04-27
+CUST_000467,Omya Cheema,Enterprise,+91-9196689473,mandalishaan@example.org,Delhi,Delhi,639997,2025-11-11
+CUST_000468,Ryan Lall,Enterprise,+91-9358480413,ishitarout@example.com,Tiruchirappalli,Tamil Nadu,721681,2024-06-05
+CUST_000469,Watika Johal,Retail,+91-9154267347,pnarayanan@example.org,Tirupati,Andhra Pradesh,628935,2023-10-19
+CUST_000470,Indrajit Tak,Enterprise,+91-9802506364,gautamvaidya@example.org,Ahmedabad,Gujarat,409629,2024-03-05
+CUST_000471,Vihaan Shan,Enterprise,+91-9215424112,aishani70@example.org,Jaipur,Rajasthan,250441,2024-06-27
+CUST_000472,Bina Parsa,E-Commerce,+91-9881155839,pooja11@example.org,Pune,Maharashtra,532843,2023-10-15
+CUST_000473,Onkar Narasimhan,Retail,+91-9530121245,raksha94@example.net,Bengaluru,Karnataka,707984,2024-02-21
+CUST_000474,Hema Goswami,Enterprise,+91-9489256938,rattanmugdha@example.com,Tirupati,Andhra Pradesh,187104,2024-11-25
+CUST_000475,Vanya Sama,Retail,+91-9583564328,isaiahdeo@example.net,Vellore,Tamil Nadu,763517,2023-12-30
+CUST_000476,Hemang Saha,Enterprise,+91-9227572362,lsarma@example.net,Kochi,Kerala,211378,2025-05-11
+CUST_000477,Ayush De,Retail,+91-9953514394,hsura@example.com,Mumbai,Maharashtra,694930,2025-08-14
+CUST_000478,Dev Lal,Wholesale,+91-9910637681,advik89@example.net,Kochi,Kerala,318728,2026-02-23
+CUST_000479,Hamsini Venkataraman,Enterprise,+91-9530986098,santyuvraj@example.com,Bengaluru,Karnataka,157505,2025-03-20
+CUST_000480,Manthan Bhagat,Retail,+91-9866213410,dugaryashasvi@example.com,Mumbai,Maharashtra,606757,2025-11-08
+CUST_000481,Falan Swamy,Enterprise,+91-9259923818,wridesh54@example.org,Kochi,Kerala,453898,2025-11-25
+CUST_000482,Kritika Rau,Wholesale,+91-9442019016,farhansharaf@example.com,Madurai,Tamil Nadu,522043,2026-03-08
+CUST_000483,Gaurang Tara,Wholesale,+91-9893838119,hmutti@example.com,Tirupati,Andhra Pradesh,732566,2026-07-10
+CUST_000484,Harshil Raval,Retail,+91-9989368954,jbanik@example.net,Ahmedabad,Gujarat,700269,2023-09-30
+CUST_000485,Daksha Trivedi,Retail,+91-9975903641,tanmayiom@example.com,Chennai,Tamil Nadu,496252,2023-12-23
+CUST_000486,Suhani Narula,Retail,+91-9217687031,tpatla@example.com,Jaipur,Rajasthan,722057,2024-03-25
+CUST_000487,Tristan Agate,Retail,+91-9878810937,isha48@example.net,Chennai,Tamil Nadu,735906,2025-05-02
+CUST_000488,Chakradev Gala,Enterprise,+91-9803935444,tdey@example.net,Salem,Tamil Nadu,163850,2025-06-26
+CUST_000489,Aachal Hayre,Enterprise,+91-9283085932,jairamaswamy@example.org,Delhi,Delhi,264955,2025-09-08
+CUST_000490,Hamsini Chokshi,E-Commerce,+91-9360056579,obatra@example.net,Bengaluru,Karnataka,710384,2026-04-01
+CUST_000491,Shravya Shankar,Wholesale,+91-9217999418,wishiagrawal@example.net,Tiruchirappalli,Tamil Nadu,129858,2023-12-14
+CUST_000492,Vasudha Trivedi,Enterprise,+91-9549661921,oscardave@example.org,Kochi,Kerala,543021,2025-05-23
+CUST_000493,Yamini Rajagopalan,Enterprise,+91-9540639384,rkothari@example.com,Ahmedabad,Gujarat,175307,2025-03-15
+CUST_000494,Sneha Deol,E-Commerce,+91-9656931857,nitaravala@example.com,Tiruchirappalli,Tamil Nadu,698133,2026-01-27
+CUST_000495,Teerth Iyer,Retail,+91-9811060614,binapai@example.net,Ahmedabad,Gujarat,661003,2024-04-23
+CUST_000496,Yahvi Naidu,Retail,+91-9285953213,pandeyvarsha@example.net,Kolkata,West Bengal,669025,2026-03-04
+CUST_000497,Bhavika Sami,Retail,+91-9480412754,virkhredhaan@example.org,Vellore,Tamil Nadu,749712,2025-05-13
+CUST_000498,Chatresh Bhalla,Enterprise,+91-9364697908,amaradyal@example.com,Vellore,Tamil Nadu,695197,2024-10-23
+CUST_000499,David Merchant,Retail,+91-9419561201,bachittarparmer@example.com,Tirupati,Andhra Pradesh,327347,2024-03-07
+CUST_000500,Lopa Khanna,Enterprise,+91-9625063062,champak66@example.com,Mumbai,Maharashtra,613111,2025-01-27
+CUST_000501,Agastya Krishnamurthy,Retail,+91-9954059995,saanvikar@example.net,Vellore,Tamil Nadu,411770,2026-07-02
+CUST_000502,Ronith Hari,Retail,+91-9826517607,saumya21@example.org,Delhi,Delhi,523698,2024-06-25
+CUST_000503,Krishna Baria,E-Commerce,+91-9930071496,jmallick@example.com,Kochi,Kerala,414562,2024-04-19
+CUST_000504,Aadhya Ahluwalia,Retail,+91-9866803374,unnati20@example.org,Hyderabad,Telangana,473189,2025-02-12
+CUST_000505,Charvi Swaminathan,Wholesale,+91-9804344630,elijah58@example.org,Vellore,Tamil Nadu,612352,2024-07-11
+CUST_000506,Yashasvi Dutta,Retail,+91-9989006374,zyadav@example.org,Vellore,Tamil Nadu,699319,2025-03-25
+CUST_000507,Tanay Narula,Enterprise,+91-9247395716,jalsa43@example.net,Coimbatore,Tamil Nadu,755585,2026-01-01
+CUST_000508,Aditya Contractor,E-Commerce,+91-9356927167,sanaya39@example.net,Salem,Tamil Nadu,163232,2024-10-12
+CUST_000509,Ekani Raj,Enterprise,+91-9670201461,rajuaahana@example.net,Salem,Tamil Nadu,778934,2024-12-12
+CUST_000510,Zansi Prasad,Retail,+91-9207586738,csur@example.com,Jaipur,Rajasthan,456338,2026-07-08
+CUST_000511,Ekani Varkey,E-Commerce,+91-9207959268,charoliver@example.net,Kochi,Kerala,115434,2026-01-05
+CUST_000512,Dominic Kade,Wholesale,+91-9269587940,paninichawla@example.org,Jaipur,Rajasthan,794608,2026-01-12
+CUST_000513,Ekbal Dube,Wholesale,+91-9610778600,sharafgarima@example.org,Ahmedabad,Gujarat,792140,2024-02-12
+CUST_000514,Chatura Gokhale,Retail,+91-9408427014,ekavir93@example.com,Mumbai,Maharashtra,409280,2025-06-24
+CUST_000515,Shravya Ravel,Enterprise,+91-9925412179,bmutti@example.com,Hyderabad,Telangana,793985,2024-03-31
+CUST_000516,Dev Bath,Enterprise,+91-9674615376,parmaryadavi@example.org,Bengaluru,Karnataka,293569,2024-12-23
+CUST_000517,Gabriel Manda,Enterprise,+91-9999371401,zraj@example.net,Madurai,Tamil Nadu,148106,2023-11-16
+CUST_000518,Naksh Walla,Wholesale,+91-9526269674,labanraman@example.net,Ahmedabad,Gujarat,305362,2024-12-31
+CUST_000519,Chanchal Prakash,Wholesale,+91-9410812797,dhaliwaljatin@example.org,Bengaluru,Karnataka,119718,2023-10-07
+CUST_000520,Frederick Mody,Retail,+91-9747233283,hemanginikakar@example.com,Coimbatore,Tamil Nadu,461318,2026-06-29
+CUST_000521,Naveen Gour,Retail,+91-9788603957,zayyanhari@example.org,Ahmedabad,Gujarat,250719,2024-07-07
+CUST_000522,Triya Bora,E-Commerce,+91-9602533479,ekalinga41@example.org,Vellore,Tamil Nadu,312178,2026-03-19
+CUST_000523,Ganga Parikh,E-Commerce,+91-9455069350,wahabchaudhry@example.com,Madurai,Tamil Nadu,591207,2026-05-19
+CUST_000524,Rishi Nadkarni,Enterprise,+91-9871588919,vseshadri@example.net,Madurai,Tamil Nadu,124769,2026-07-20
+CUST_000525,Michael Patla,E-Commerce,+91-9949080318,priya20@example.com,Tirupati,Andhra Pradesh,705362,2024-10-16
+CUST_000526,Rajata Malhotra,Enterprise,+91-9307405357,krish57@example.com,Madurai,Tamil Nadu,750633,2025-08-21
+CUST_000527,Dalaja Sur,E-Commerce,+91-9535391971,gillfinn@example.com,Jaipur,Rajasthan,650311,2024-05-04
+CUST_000528,Adya Bose,Retail,+91-9530391423,bahlyashica@example.net,Coimbatore,Tamil Nadu,303758,2023-11-17
+CUST_000529,Simon Bansal,Wholesale,+91-9612662437,urmi25@example.com,Mumbai,Maharashtra,370097,2024-09-10
+CUST_000530,Krish Shetty,Retail,+91-9511859868,ranganathanjanuja@example.net,Salem,Tamil Nadu,578437,2023-10-16
+CUST_000531,Noah Varkey,E-Commerce,+91-9453932473,sanayadutta@example.org,Tirupati,Andhra Pradesh,720755,2026-02-25
+CUST_000532,Veda Parmer,E-Commerce,+91-9112279027,kandavinaya@example.org,Vellore,Tamil Nadu,795437,2024-01-05
+CUST_000533,Kala Kaur,Retail,+91-9353727962,jhaverizarna@example.com,Bengaluru,Karnataka,233968,2025-05-24
+CUST_000534,Suhani Batra,Enterprise,+91-9271494637,naikharshil@example.net,Delhi,Delhi,636931,2025-12-17
+CUST_000535,Adya Ghosh,Wholesale,+91-9855438611,xradhakrishnan@example.net,Tirupati,Andhra Pradesh,233120,2026-07-10
+CUST_000536,Zansi Krishnamurthy,Enterprise,+91-9416794215,hkapoor@example.com,Pune,Maharashtra,754482,2025-03-31
+CUST_000537,Vidhi Subramaniam,Retail,+91-9243418388,thakerliam@example.com,Ahmedabad,Gujarat,270627,2024-06-13
+CUST_000538,Faraj Varkey,Enterprise,+91-9750407244,siddharth22@example.org,Pune,Maharashtra,546046,2025-04-14
+CUST_000539,Victor Sachdeva,E-Commerce,+91-9605547798,ishaan77@example.com,Tiruchirappalli,Tamil Nadu,369487,2024-08-22
+CUST_000540,Nirja Bains,Enterprise,+91-9739750911,calebdatta@example.net,Hyderabad,Telangana,661034,2026-04-07
+CUST_000541,Krish Vala,Enterprise,+91-9855663125,dindaksh@example.org,Pune,Maharashtra,191897,2024-11-04
+CUST_000542,Zansi Ravi,Wholesale,+91-9220483278,manderfrederick@example.org,Bengaluru,Karnataka,684252,2025-08-27
+CUST_000543,Vasatika Garde,Wholesale,+91-9317064188,nirjadhar@example.net,Kochi,Kerala,282530,2024-07-08
+CUST_000544,Oliver Oommen,Retail,+91-9658712474,obiswas@example.com,Kolkata,West Bengal,231887,2025-05-20
+CUST_000545,Ikbal Babu,Enterprise,+91-9869784803,yaminisaini@example.org,Ahmedabad,Gujarat,205360,2026-04-27
+CUST_000546,Peter Soni,E-Commerce,+91-9578333394,waliyahvi@example.org,Bengaluru,Karnataka,585459,2024-02-21
+CUST_000547,Kalpit Zacharia,Retail,+91-9546058739,sankarosha@example.com,Kolkata,West Bengal,701304,2023-12-06
+CUST_000548,Veer Subramaniam,Retail,+91-9596474925,lpalla@example.net,Tirupati,Andhra Pradesh,132828,2026-03-12
+CUST_000549,Pavani Desai,Retail,+91-9976659977,vansha31@example.com,Chennai,Tamil Nadu,338487,2026-04-16
+CUST_000550,Aarini Gulati,Enterprise,+91-9148629555,amblejacob@example.net,Jaipur,Rajasthan,471265,2023-10-11
+CUST_000551,Samesh Mutti,E-Commerce,+91-9681069884,gpathak@example.org,Bengaluru,Karnataka,182372,2025-07-22
+CUST_000552,Advika Wason,Wholesale,+91-9606882594,npau@example.com,Bengaluru,Karnataka,411037,2025-06-08
+CUST_000553,Odika Subramanian,Enterprise,+91-9925677464,kamalasule@example.com,Kochi,Kerala,782688,2025-01-18
+CUST_000554,Mitali Devi,Wholesale,+91-9793509240,karpesanya@example.net,Jaipur,Rajasthan,502651,2024-06-07
+CUST_000555,Tanish Trivedi,Wholesale,+91-9510684364,znigam@example.net,Kolkata,West Bengal,505834,2026-05-10
+CUST_000556,Naveen Ramachandran,Retail,+91-9833076128,chandmaanav@example.com,Kochi,Kerala,795281,2026-04-19
+CUST_000557,Gaurang Bhatt,E-Commerce,+91-9227381397,tristan51@example.net,Madurai,Tamil Nadu,673357,2023-11-27
+CUST_000558,Nandini Verma,Retail,+91-9236737888,dakshesh27@example.com,Salem,Tamil Nadu,113643,2023-10-16
+CUST_000559,Zarna Mangal,E-Commerce,+91-9420364823,bahadurjituppal@example.net,Kolkata,West Bengal,680893,2024-09-23
+CUST_000560,Balendra Parsa,Enterprise,+91-9507245006,aadidugar@example.org,Salem,Tamil Nadu,369536,2024-12-01
+CUST_000561,Ira Rana,Enterprise,+91-9266560311,hiyer@example.org,Vellore,Tamil Nadu,307637,2024-01-14
+CUST_000562,Bhavani Pall,Wholesale,+91-9878488534,aradhana39@example.org,Coimbatore,Tamil Nadu,143783,2025-09-05
+CUST_000563,Aayush Lal,E-Commerce,+91-9550156166,niharikatoor@example.org,Chennai,Tamil Nadu,362357,2026-02-13
+CUST_000564,Yahvi Menon,Retail,+91-9208337018,jackson84@example.net,Bengaluru,Karnataka,578128,2026-03-11
+CUST_000565,Saanvi Purohit,Enterprise,+91-9855147872,wkohli@example.com,Bengaluru,Karnataka,366623,2025-09-11
+CUST_000566,Ayaan Subramaniam,E-Commerce,+91-9531929128,kuruvillaekansh@example.com,Kolkata,West Bengal,355723,2026-06-10
+CUST_000567,Victor Mutti,Enterprise,+91-9910015485,hpandit@example.net,Bengaluru,Karnataka,256943,2023-10-15
+CUST_000568,Yuvraj Mani,Enterprise,+91-9410594268,rastogihema@example.org,Salem,Tamil Nadu,714096,2026-02-07
+CUST_000569,Vamakshi Murthy,Retail,+91-9742009209,tejas94@example.org,Mumbai,Maharashtra,358412,2024-07-21
+CUST_000570,Ryan Keer,Retail,+91-9253824712,alkajhaveri@example.org,Salem,Tamil Nadu,543650,2024-08-09
+CUST_000571,Ishani Dugal,Retail,+91-9165452764,darfarhan@example.net,Madurai,Tamil Nadu,766402,2026-07-26
+CUST_000572,Abeer Basak,Enterprise,+91-9696840109,nprabhu@example.com,Ahmedabad,Gujarat,159162,2025-11-02
+CUST_000573,Vritti Goswami,Wholesale,+91-9790755362,mitali39@example.org,Delhi,Delhi,659940,2023-12-23
+CUST_000574,Vanya Zachariah,Retail,+91-9547025173,thakkaridika@example.com,Jaipur,Rajasthan,266467,2024-06-27
+CUST_000575,Jai Vasa,Retail,+91-9297438548,smutti@example.org,Ahmedabad,Gujarat,362674,2023-10-18
+CUST_000576,Ladli Chaudhuri,E-Commerce,+91-9422913264,janaki94@example.org,Kochi,Kerala,595518,2026-01-29
+CUST_000577,Warjas Luthra,Wholesale,+91-9703857319,xoza@example.org,Jaipur,Rajasthan,546741,2025-11-12
+CUST_000578,Shivansh Saini,Enterprise,+91-9243980993,janya64@example.com,Delhi,Delhi,364656,2024-07-05
+CUST_000579,Veer Chaudhry,Retail,+91-9454617185,warinder86@example.com,Hyderabad,Telangana,581636,2024-07-30
+CUST_000580,Mason Solanki,E-Commerce,+91-9199282456,godaoviya@example.com,Tiruchirappalli,Tamil Nadu,164041,2024-04-25
+CUST_000581,Vidhi Mital,Retail,+91-9823349713,champak61@example.net,Bengaluru,Karnataka,186320,2024-06-09
+CUST_000582,Tanveer Kumar,Retail,+91-9917865301,cchar@example.net,Tiruchirappalli,Tamil Nadu,612682,2025-03-02
+CUST_000583,Jalsa Parsa,Retail,+91-9457517705,hemangini06@example.org,Tirupati,Andhra Pradesh,126079,2025-03-28
+CUST_000584,Owen Mane,Retail,+91-9304036387,ekta87@example.net,Coimbatore,Tamil Nadu,612185,2025-08-24
+CUST_000585,Lakshmi Mangat,Wholesale,+91-9846923032,kdhillon@example.net,Tiruchirappalli,Tamil Nadu,525899,2025-03-07
+CUST_000586,Nidhi Bora,Wholesale,+91-9692790631,edwinhemal@example.org,Mumbai,Maharashtra,406810,2025-01-28
+CUST_000587,Bishakha Loke,Retail,+91-9673002461,cmadan@example.com,Pune,Maharashtra,433405,2026-03-29
+CUST_000588,Odika Ganesh,Retail,+91-9650632566,arindass@example.net,Ahmedabad,Gujarat,598641,2024-09-28
+CUST_000589,Fariq Kade,Retail,+91-9875685667,mekhalachauhan@example.org,Ahmedabad,Gujarat,445789,2024-01-07
+CUST_000590,Chatura Bal,Wholesale,+91-9498041381,wviswanathan@example.org,Mumbai,Maharashtra,544038,2024-03-09
+CUST_000591,Nachiket Chad,Retail,+91-9337591250,omore@example.org,Kochi,Kerala,127008,2024-12-14
+CUST_000592,Jonathan Deep,Retail,+91-9727099478,ayushbanerjee@example.net,Jaipur,Rajasthan,419532,2025-04-06
+CUST_000593,Vamakshi Sibal,Retail,+91-9454190155,sai28@example.org,Salem,Tamil Nadu,508291,2026-04-04
+CUST_000594,Radhika Viswanathan,Enterprise,+91-9363850592,idika78@example.org,Ahmedabad,Gujarat,687391,2024-02-16
+CUST_000595,Darika Pau,Enterprise,+91-9835348453,jlad@example.com,Mumbai,Maharashtra,379827,2023-10-16
+CUST_000596,Laban Padmanabhan,E-Commerce,+91-9624652904,upasna80@example.net,Ahmedabad,Gujarat,593215,2025-11-02
+CUST_000597,Chandani Andra,Retail,+91-9953598460,mmaster@example.org,Pune,Maharashtra,287488,2023-10-11
+CUST_000598,Ranbir Sabharwal,Retail,+91-9686849648,prana@example.org,Ahmedabad,Gujarat,302989,2026-06-29
+CUST_000599,Kritika Kannan,Wholesale,+91-9682115008,fariq63@example.net,Bengaluru,Karnataka,659396,2026-05-09
+CUST_000600,Bhavani Wali,Retail,+91-9179811669,nitara31@example.org,Bengaluru,Karnataka,116694,2024-04-29
+CUST_000601,Indrajit Shah,Enterprise,+91-9777210736,smagar@example.net,Salem,Tamil Nadu,181270,2025-11-02
+CUST_000602,Ekani Bahl,E-Commerce,+91-9109815572,chandranwarrior@example.org,Tiruchirappalli,Tamil Nadu,640300,2024-07-14
+CUST_000603,Baghyawati Luthra,Enterprise,+91-9164907817,rakshaanand@example.org,Ahmedabad,Gujarat,621553,2024-02-17
+CUST_000604,Alexander Tak,Retail,+91-9671458801,hemasalvi@example.com,Jaipur,Rajasthan,122427,2025-11-12
+CUST_000605,Ubika Balay,Retail,+91-9875448533,faris20@example.com,Vellore,Tamil Nadu,671763,2025-05-31
+CUST_000606,Upma Golla,Wholesale,+91-9118406723,zashilraj@example.org,Jaipur,Rajasthan,297975,2024-04-06
+CUST_000607,Lekha Savant,Retail,+91-9203416251,bahadurjitissac@example.com,Kochi,Kerala,362675,2024-02-22
+CUST_000608,Urvashi Ramachandran,Retail,+91-9665277813,ekantika20@example.net,Vellore,Tamil Nadu,481659,2026-01-30
+CUST_000609,Zehaan Srivastava,Retail,+91-9526164289,rushil50@example.net,Hyderabad,Telangana,501173,2024-09-02
+CUST_000610,Warinder Saraf,Wholesale,+91-9592845076,alexander24@example.net,Salem,Tamil Nadu,346829,2024-04-02
+CUST_000611,Xavier Andra,Retail,+91-9989124880,somanmohammed@example.com,Hyderabad,Telangana,795492,2024-02-16
+CUST_000612,Nakul Tata,Wholesale,+91-9797818850,nigamdarpan@example.org,Bengaluru,Karnataka,208043,2025-04-04
+CUST_000613,Hredhaan Dass,Enterprise,+91-9504982743,ukaul@example.net,Ahmedabad,Gujarat,168841,2026-06-27
+CUST_000614,Reva Hans,Enterprise,+91-9854674236,purohitishita@example.net,Madurai,Tamil Nadu,196703,2024-04-26
+CUST_000615,Balveer Sundaram,Enterprise,+91-9565906941,imenon@example.net,Mumbai,Maharashtra,703344,2025-10-30
+CUST_000616,Rachit Pall,Wholesale,+91-9202393989,upadhriti49@example.net,Bengaluru,Karnataka,350928,2024-06-05
+CUST_000617,Mohammed Sengupta,Retail,+91-9843338269,adya85@example.com,Ahmedabad,Gujarat,394264,2023-10-01
+CUST_000618,Qasim Bahl,Retail,+91-9179830621,william51@example.net,Vellore,Tamil Nadu,679409,2026-01-14
+CUST_000619,Ranveer Viswanathan,Enterprise,+91-9135328023,ndube@example.com,Madurai,Tamil Nadu,439762,2025-02-12
+CUST_000620,Ekanta Choudhry,Retail,+91-9322434334,virkekalinga@example.org,Kochi,Kerala,527644,2024-04-18
+CUST_000621,Azad Jaggi,Wholesale,+91-9421346113,sunderrehaan@example.org,Madurai,Tamil Nadu,701354,2023-11-18
+CUST_000622,Vrishti Vora,Retail,+91-9996199211,chandran53@example.net,Delhi,Delhi,676821,2024-01-18
+CUST_000623,Sathvik Swamy,Retail,+91-9911329267,sidhudarsh@example.com,Kochi,Kerala,192238,2026-02-12
+CUST_000624,Jyoti Bhardwaj,Enterprise,+91-9471363809,banjeet14@example.org,Bengaluru,Karnataka,212431,2024-08-30
+CUST_000625,Harrison Kashyap,Enterprise,+91-9181623972,mgupta@example.net,Mumbai,Maharashtra,744566,2026-07-16
+CUST_000626,Praneel Sagar,E-Commerce,+91-9739529933,parmartara@example.net,Delhi,Delhi,452231,2026-07-29
+CUST_000627,Hemang Ganesan,Retail,+91-9393482659,neelimathaman@example.com,Kolkata,West Bengal,624436,2026-07-17
+CUST_000628,Saanvi Pandey,Retail,+91-9693819730,ekta56@example.net,Delhi,Delhi,562826,2025-07-29
+CUST_000629,Wridesh Kala,Retail,+91-9729078621,xkumar@example.com,Delhi,Delhi,199857,2025-08-25
+CUST_000630,Aadi Banerjee,E-Commerce,+91-9417161302,amol82@example.com,Salem,Tamil Nadu,187078,2023-10-10
+CUST_000631,Tristan Kala,Retail,+91-9265593497,anthony48@example.net,Delhi,Delhi,774694,2026-02-10
+CUST_000632,Girindra Barad,Retail,+91-9518353415,jparekh@example.org,Mumbai,Maharashtra,488222,2024-11-14
+CUST_000633,Zaid Kaul,Retail,+91-9105578324,charita19@example.com,Tirupati,Andhra Pradesh,576340,2026-03-02
+CUST_000634,Faras Nair,Retail,+91-9389659515,fghose@example.net,Coimbatore,Tamil Nadu,248944,2026-03-13
+CUST_000635,Charita Barad,Retail,+91-9562760731,xbrar@example.org,Kolkata,West Bengal,694042,2025-03-02
+CUST_000636,Radha Saha,Enterprise,+91-9538134097,karanadvay@example.net,Coimbatore,Tamil Nadu,137538,2026-06-08
+CUST_000637,Chatura Mody,Retail,+91-9695088987,nagarmason@example.com,Hyderabad,Telangana,735921,2025-11-18
+CUST_000638,Michael Bedi,Enterprise,+91-9448354409,wsehgal@example.net,Delhi,Delhi,122941,2026-03-11
+CUST_000639,Tristan Sankaran,Retail,+91-9516396603,meera22@example.com,Hyderabad,Telangana,696717,2024-02-05
+CUST_000640,Chandran Rastogi,Wholesale,+91-9360642799,frederick68@example.com,Madurai,Tamil Nadu,509227,2024-04-19
+CUST_000641,Vasana Hora,Retail,+91-9388749542,prana@example.net,Tirupati,Andhra Pradesh,391445,2024-07-30
+CUST_000642,Xavier Bora,Enterprise,+91-9167932588,qushi59@example.org,Madurai,Tamil Nadu,565792,2024-03-22
+CUST_000643,Pallavi Pau,Retail,+91-9421856529,rayaan55@example.net,Ahmedabad,Gujarat,190658,2026-07-14
+CUST_000644,Dalaja Gara,Retail,+91-9364774064,riya92@example.com,Ahmedabad,Gujarat,732652,2023-12-08
+CUST_000645,Ryan Prakash,Enterprise,+91-9591625191,frederickchowdhury@example.net,Coimbatore,Tamil Nadu,252072,2023-12-23
+CUST_000646,Manbir Mani,Retail,+91-9524871030,ozaindrajit@example.com,Mumbai,Maharashtra,760319,2025-08-29
+CUST_000647,Arin Narula,Retail,+91-9453842723,siddharthjani@example.net,Kolkata,West Bengal,460997,2025-12-20
+CUST_000648,Vasudha Dhaliwal,Enterprise,+91-9984264226,puricaleb@example.com,Kochi,Kerala,425030,2024-06-20
+CUST_000649,Bhanumati Iyer,Retail,+91-9846564420,chatresh70@example.org,Tiruchirappalli,Tamil Nadu,612279,2025-05-25
+CUST_000650,Jagvi Chokshi,Retail,+91-9527606494,masterlibni@example.org,Mumbai,Maharashtra,415606,2025-05-13
+CUST_000651,Diya Sundaram,E-Commerce,+91-9779573843,grewalrushil@example.net,Ahmedabad,Gujarat,713854,2025-09-10
+CUST_000652,Balveer Kota,E-Commerce,+91-9449917685,gauri76@example.net,Delhi,Delhi,403917,2024-05-30
+CUST_000653,Idika Pandey,E-Commerce,+91-9521910884,chasmum38@example.com,Pune,Maharashtra,229421,2024-01-04
+CUST_000654,Lila Balan,Wholesale,+91-9314533665,umang25@example.com,Madurai,Tamil Nadu,686821,2026-07-16
+CUST_000655,Gagan Raja,Retail,+91-9880839406,omishakhosla@example.net,Kolkata,West Bengal,329833,2024-05-24
+CUST_000656,Devika Narayan,Enterprise,+91-9412814503,ndeep@example.net,Hyderabad,Telangana,539017,2024-05-02
+CUST_000657,Lakshit More,Enterprise,+91-9249442440,qushidhillon@example.net,Tirupati,Andhra Pradesh,363778,2026-02-23
+CUST_000658,Eesha Bir,Retail,+91-9265510032,goureesha@example.org,Jaipur,Rajasthan,505304,2023-11-14
+CUST_000659,Odika Sabharwal,Retail,+91-9742026586,saanvi42@example.org,Ahmedabad,Gujarat,720528,2024-03-13
+CUST_000660,Qasim Bal,Enterprise,+91-9643971182,vihaan93@example.org,Jaipur,Rajasthan,680054,2023-11-09
+CUST_000661,Fariq Sood,Retail,+91-9486041850,yadavisingh@example.net,Hyderabad,Telangana,224683,2026-07-05
+CUST_000662,Qarin Ram,E-Commerce,+91-9806094391,isom@example.org,Pune,Maharashtra,284419,2024-07-26
+CUST_000663,Bachittar Rege,Enterprise,+91-9147563208,madannitara@example.org,Delhi,Delhi,457705,2024-08-10
+CUST_000664,Dominic Goel,Wholesale,+91-9562198122,ssuri@example.com,Coimbatore,Tamil Nadu,121061,2025-09-09
+CUST_000665,Prisha Ravel,Retail,+91-9338371847,raidhriti@example.com,Salem,Tamil Nadu,577433,2026-05-06
+CUST_000666,Ikbal Seth,Retail,+91-9597210335,pbasak@example.net,Kochi,Kerala,471725,2026-01-12
+CUST_000667,Balveer Ram,Wholesale,+91-9618371508,guptabishakha@example.com,Coimbatore,Tamil Nadu,419784,2025-06-09
+CUST_000668,Bhavika Shenoy,Enterprise,+91-9192185888,pahalmenon@example.net,Coimbatore,Tamil Nadu,258558,2023-12-23
+CUST_000669,Ubika Seth,Retail,+91-9468365044,tellaisaiah@example.org,Kolkata,West Bengal,326917,2026-03-27
+CUST_000670,Maya Sachdev,Enterprise,+91-9473984594,shravya02@example.com,Ahmedabad,Gujarat,212366,2026-04-04
+CUST_000671,Suhani Chana,Enterprise,+91-9848143863,ekiya21@example.org,Kolkata,West Bengal,444401,2024-03-25
+CUST_000672,Janani Chada,Retail,+91-9147978060,nvaidya@example.org,Coimbatore,Tamil Nadu,133683,2025-05-10
+CUST_000673,Caleb Garde,E-Commerce,+91-9795752405,mason22@example.org,Coimbatore,Tamil Nadu,282338,2023-12-18
+CUST_000674,Darika More,Wholesale,+91-9895094534,omani@example.org,Salem,Tamil Nadu,651059,2024-03-30
+CUST_000675,Samaksh Aggarwal,Retail,+91-9271944408,advik77@example.com,Mumbai,Maharashtra,697045,2026-01-21
+CUST_000676,Wakeeta Khanna,Enterprise,+91-9596126873,vamakshisetty@example.com,Salem,Tamil Nadu,534724,2025-08-16
+CUST_000677,Abeer Konda,Enterprise,+91-9300131434,sarthak02@example.org,Jaipur,Rajasthan,524799,2023-12-24
+CUST_000678,Balhaar Dhillon,Retail,+91-9759392301,misragarima@example.org,Tiruchirappalli,Tamil Nadu,581414,2023-12-15
+CUST_000679,Omaja Gokhale,Enterprise,+91-9517509245,bhavanigoel@example.com,Chennai,Tamil Nadu,335231,2026-03-17
+CUST_000680,Balendra Chander,Retail,+91-9907803348,ekantika56@example.org,Hyderabad,Telangana,715394,2025-07-24
+CUST_000681,Brinda Sinha,Retail,+91-9676480186,jairajmaharaj@example.com,Madurai,Tamil Nadu,493562,2025-12-26
+CUST_000682,Shaurya Kadakia,Retail,+91-9591291025,chopragagan@example.com,Coimbatore,Tamil Nadu,385098,2026-04-26
+CUST_000683,Prisha Nadig,Enterprise,+91-9625579419,irya29@example.net,Mumbai,Maharashtra,735970,2025-11-09
+CUST_000684,Waida Gole,Retail,+91-9521490916,binahari@example.org,Coimbatore,Tamil Nadu,474826,2024-03-31
+CUST_000685,Udyati Dalal,Retail,+91-9591624059,oeshisachdev@example.org,Madurai,Tamil Nadu,421894,2025-03-01
+CUST_000686,Simon Apte,Wholesale,+91-9733688460,baghyawatikumar@example.org,Hyderabad,Telangana,250455,2025-01-20
+CUST_000687,Yashawini Naik,Retail,+91-9356165519,comargauri@example.com,Tirupati,Andhra Pradesh,232630,2025-06-06
+CUST_000688,Parth Hari,Retail,+91-9844571822,hamsini77@example.org,Kochi,Kerala,645639,2026-06-28
+CUST_000689,Vasatika Dugal,Retail,+91-9740407346,vyadav@example.com,Kochi,Kerala,712728,2025-07-04
+CUST_000690,Chandani Mutti,Retail,+91-9299451515,joshigarima@example.com,Ahmedabad,Gujarat,776372,2024-01-10
+CUST_000691,Avni Balasubramanian,Enterprise,+91-9792842747,keya82@example.net,Madurai,Tamil Nadu,691869,2026-04-27
+CUST_000692,Rachit Dada,Retail,+91-9410133983,divya04@example.com,Kochi,Kerala,306188,2024-02-11
+CUST_000693,Wazir Prabhu,Retail,+91-9584258607,nmittal@example.net,Bengaluru,Karnataka,486480,2025-01-11
+CUST_000694,Isaac Prasad,Wholesale,+91-9620344871,jaggigeorge@example.com,Kochi,Kerala,314608,2025-11-24
+CUST_000695,Vasudha Tella,E-Commerce,+91-9702994164,ranveeroak@example.com,Ahmedabad,Gujarat,539009,2025-12-21
+CUST_000696,Falak Dhar,Enterprise,+91-9546279777,vartykevin@example.org,Kolkata,West Bengal,622439,2023-11-25
+CUST_000697,Lila Vig,Retail,+91-9707091264,agrawaldeepa@example.org,Chennai,Tamil Nadu,341242,2026-04-10
+CUST_000698,Gauri Sibal,Retail,+91-9395121074,chauhandevika@example.org,Salem,Tamil Nadu,673724,2026-03-15
+CUST_000699,Shaurya Nagi,Retail,+91-9938313402,reyanshmangat@example.com,Kolkata,West Bengal,703128,2026-01-03
+CUST_000700,Ridhi Dalal,E-Commerce,+91-9922399856,manthan24@example.org,Ahmedabad,Gujarat,686430,2023-10-23
+CUST_000701,Samuel Palla,Enterprise,+91-9714947037,anika24@example.net,Coimbatore,Tamil Nadu,390902,2024-10-14
+CUST_000702,Ekavir Mukhopadhyay,E-Commerce,+91-9983993176,sachi02@example.org,Pune,Maharashtra,678374,2025-09-30
+CUST_000703,Hitesh Rajagopal,E-Commerce,+91-9144678958,chadhapooja@example.com,Kolkata,West Bengal,682893,2024-07-04
+CUST_000704,Ishani Muni,Retail,+91-9556506372,rudra81@example.com,Coimbatore,Tamil Nadu,795425,2026-02-28
+CUST_000705,Girik Sidhu,E-Commerce,+91-9419662531,shahdayita@example.net,Bengaluru,Karnataka,581579,2026-06-27
+CUST_000706,Upma Kata,Retail,+91-9976955647,maanaskuruvilla@example.com,Hyderabad,Telangana,570399,2025-05-31
+CUST_000707,Ganga Nair,E-Commerce,+91-9226042285,bsura@example.org,Salem,Tamil Nadu,330074,2025-10-07
+CUST_000708,Indali Srinivas,E-Commerce,+91-9731278472,sgarde@example.com,Pune,Maharashtra,749906,2026-04-25
+CUST_000709,Yashoda Chauhan,Enterprise,+91-9278221407,uchhabra@example.net,Kochi,Kerala,326657,2026-07-04
+CUST_000710,Chasmum Walia,E-Commerce,+91-9964835149,lrattan@example.com,Bengaluru,Karnataka,707767,2024-10-04
+CUST_000711,Nathan Subramaniam,Retail,+91-9401812742,vbhatti@example.org,Madurai,Tamil Nadu,449376,2026-04-05
+CUST_000712,Radhika Oommen,Wholesale,+91-9414214115,oscarbrahmbhatt@example.net,Tirupati,Andhra Pradesh,710557,2026-03-09
+CUST_000713,Ishwar Sheth,Retail,+91-9652348887,gunbir72@example.com,Coimbatore,Tamil Nadu,252176,2025-06-21
+CUST_000714,Ikbal Raghavan,Wholesale,+91-9943629337,warda01@example.org,Jaipur,Rajasthan,172166,2024-05-02
+CUST_000715,Manan Dixit,Wholesale,+91-9804263267,swali@example.com,Kochi,Kerala,249137,2026-05-13
+CUST_000716,Rohan Jha,Retail,+91-9863854401,chandani94@example.com,Mumbai,Maharashtra,369580,2025-03-17
+CUST_000717,Abhiram Uppal,E-Commerce,+91-9826101325,sdatta@example.org,Delhi,Delhi,623235,2025-04-25
+CUST_000718,Aadi Parmer,Retail,+91-9779036456,mandaazaan@example.org,Vellore,Tamil Nadu,768310,2025-07-31
+CUST_000719,Eesha Raja,Enterprise,+91-9585322421,braj@example.net,Hyderabad,Telangana,774407,2024-08-23
+CUST_000720,Vaishnavi Dewan,E-Commerce,+91-9925583165,leenaparsa@example.com,Hyderabad,Telangana,532420,2024-05-26
+CUST_000721,Jeremiah Desai,Enterprise,+91-9398742558,boraamol@example.org,Pune,Maharashtra,586783,2025-10-25
+CUST_000722,Laban Chad,Wholesale,+91-9451424185,ojasvishah@example.net,Chennai,Tamil Nadu,207667,2026-04-25
+CUST_000723,Pranit Sha,E-Commerce,+91-9592256138,ysengupta@example.com,Pune,Maharashtra,176408,2024-09-14
+CUST_000724,Panini Amble,E-Commerce,+91-9527044165,tkhalsa@example.net,Tiruchirappalli,Tamil Nadu,560514,2024-11-21
+CUST_000725,Jeevika Bandi,E-Commerce,+91-9631196129,subramanianjyoti@example.org,Vellore,Tamil Nadu,448549,2026-03-19
+CUST_000726,Fariq Dhar,E-Commerce,+91-9462661837,udyati81@example.net,Kochi,Kerala,703644,2026-05-04
+CUST_000727,Yatan Sodhi,E-Commerce,+91-9946434607,zachariadevika@example.net,Mumbai,Maharashtra,160761,2023-12-20
+CUST_000728,Advay Singh,Retail,+91-9772355141,evala@example.net,Kolkata,West Bengal,127073,2025-02-25
+CUST_000729,Ira Menon,Retail,+91-9269633510,oliver09@example.net,Kolkata,West Bengal,588694,2025-01-14
+CUST_000730,Darsh Solanki,Retail,+91-9559346003,charanmanne@example.net,Tiruchirappalli,Tamil Nadu,248321,2026-05-26
+CUST_000731,Bhavini Sundaram,E-Commerce,+91-9424125621,dateyashasvi@example.org,Madurai,Tamil Nadu,397331,2024-12-04
+CUST_000732,Kevin Mand,Retail,+91-9487014547,aarini01@example.net,Vellore,Tamil Nadu,196425,2024-06-27
+CUST_000733,Sanya Pingle,Retail,+91-9796763109,advikakeer@example.com,Madurai,Tamil Nadu,164303,2024-07-06
+CUST_000734,Hemal Chad,Retail,+91-9428038048,miteshtandon@example.com,Salem,Tamil Nadu,560082,2025-05-17
+CUST_000735,Ria Ganesh,Enterprise,+91-9855590022,hemanibhagat@example.net,Coimbatore,Tamil Nadu,111140,2024-11-13
+CUST_000736,Charles Ganesh,Retail,+91-9183686071,erastogi@example.com,Kochi,Kerala,732519,2025-10-08
+CUST_000737,Ladli Ramakrishnan,Retail,+91-9830125895,jlala@example.net,Kolkata,West Bengal,119739,2025-08-05
+CUST_000738,Bhavya Sen,Retail,+91-9468909933,hmutti@example.net,Coimbatore,Tamil Nadu,552829,2023-12-02
+CUST_000739,Irya Sankaran,Enterprise,+91-9612926731,gautami44@example.org,Hyderabad,Telangana,350069,2024-10-30
+CUST_000740,Triya Khurana,Retail,+91-9884651200,zinalnazareth@example.net,Coimbatore,Tamil Nadu,218215,2024-07-05
+CUST_000741,Advaith Anand,Retail,+91-9421322967,aroranisha@example.org,Kochi,Kerala,511313,2025-12-23
+CUST_000742,Sanaya Panchal,E-Commerce,+91-9908697030,bhanumatikrishnamurthy@example.org,Kochi,Kerala,782742,2023-11-21
+CUST_000743,George Bhandari,Wholesale,+91-9253387313,jairajdar@example.org,Hyderabad,Telangana,666279,2026-04-26
+CUST_000744,Keya Goyal,Enterprise,+91-9755325292,gourzehaan@example.com,Madurai,Tamil Nadu,571478,2025-09-24
+CUST_000745,Sudiksha Malhotra,Retail,+91-9328766544,qnaik@example.org,Kochi,Kerala,541710,2024-01-22
+CUST_000746,David Raja,Enterprise,+91-9575006056,dnatarajan@example.com,Tiruchirappalli,Tamil Nadu,200899,2024-11-14
+CUST_000747,Ridhi Boase,E-Commerce,+91-9250337960,niyer@example.com,Coimbatore,Tamil Nadu,728214,2024-07-03
+CUST_000748,Ikbal Dhawan,E-Commerce,+91-9477458516,nkamdar@example.net,Jaipur,Rajasthan,439781,2024-03-13
+CUST_000749,Aashi Chauhan,E-Commerce,+91-9366058599,boraekavir@example.net,Vellore,Tamil Nadu,785934,2024-10-23
+CUST_000750,Anirudh Tank,Retail,+91-9694205108,aadibarad@example.net,Tirupati,Andhra Pradesh,138128,2025-05-28
+CUST_000751,Max Narayan,E-Commerce,+91-9806957378,gaggarwal@example.net,Tirupati,Andhra Pradesh,325426,2025-10-31
+CUST_000752,Rajata Raval,Enterprise,+91-9647095694,zachariahupkaar@example.org,Tiruchirappalli,Tamil Nadu,520781,2025-05-19
+CUST_000753,Jairaj Wason,Retail,+91-9158593156,gauri46@example.org,Salem,Tamil Nadu,628928,2026-06-08
+CUST_000754,Jasmit Warrior,Retail,+91-9358859561,faris74@example.net,Ahmedabad,Gujarat,779078,2024-08-10
+CUST_000755,Balveer Rajagopalan,Enterprise,+91-9667243311,chandaniramakrishnan@example.org,Chennai,Tamil Nadu,488639,2026-06-05
+CUST_000756,Vidhi Chad,Wholesale,+91-9241715543,igupta@example.org,Delhi,Delhi,705991,2024-07-25
+CUST_000757,William Suresh,Enterprise,+91-9686645526,ybhatnagar@example.net,Madurai,Tamil Nadu,603895,2026-06-25
+CUST_000758,Xalak Walla,Wholesale,+91-9927175323,cbabu@example.com,Hyderabad,Telangana,127501,2023-12-26
+CUST_000759,Brijesh Ravi,Enterprise,+91-9114810579,kakartara@example.net,Vellore,Tamil Nadu,336223,2026-01-10
+CUST_000760,Viraj Bora,Retail,+91-9164927936,dhaliwalvrinda@example.net,Delhi,Delhi,641220,2023-10-29
+CUST_000761,Chakradev Kibe,Retail,+91-9865179645,akshaygera@example.net,Jaipur,Rajasthan,554151,2023-12-16
+CUST_000762,Gunbir Shan,E-Commerce,+91-9188506190,devanshcherian@example.org,Kochi,Kerala,400947,2025-11-10
+CUST_000763,Dev Jain,Retail,+91-9184848753,znazareth@example.net,Tiruchirappalli,Tamil Nadu,272925,2025-06-15
+CUST_000764,Jai Devan,Enterprise,+91-9519544755,tanay09@example.org,Hyderabad,Telangana,435237,2025-03-04
+CUST_000765,Jai Mahal,Enterprise,+91-9883786839,ojasviganguly@example.net,Salem,Tamil Nadu,170719,2025-04-26
+CUST_000766,Reva Kohli,Retail,+91-9566523205,deolharish@example.net,Coimbatore,Tamil Nadu,585395,2026-05-08
+CUST_000767,Nakul Babu,Enterprise,+91-9159086532,abuch@example.org,Tirupati,Andhra Pradesh,294179,2024-07-04
+CUST_000768,Bhanumati Saha,Retail,+91-9860102491,ndate@example.org,Kochi,Kerala,121902,2026-06-19
+CUST_000769,Shravya Sabharwal,Retail,+91-9472271797,owenbarad@example.net,Vellore,Tamil Nadu,285074,2024-07-05
+CUST_000770,Gaurang Mitra,Retail,+91-9905066256,omya08@example.org,Vellore,Tamil Nadu,233792,2024-07-24
+CUST_000771,Girish Pathak,E-Commerce,+91-9131521039,ucchaljoshi@example.com,Mumbai,Maharashtra,560180,2023-12-21
+CUST_000772,Isaiah Dixit,Retail,+91-9168582026,ltank@example.org,Vellore,Tamil Nadu,714664,2023-12-05
+CUST_000773,Januja Mane,Enterprise,+91-9632734398,radhikakrishnamurthy@example.com,Kolkata,West Bengal,645594,2026-05-15
+CUST_000774,Caleb Chawla,Retail,+91-9636452156,yogipatrick@example.org,Madurai,Tamil Nadu,495549,2023-11-14
+CUST_000775,Yutika D’Alia,Retail,+91-9930355646,keersai@example.net,Coimbatore,Tamil Nadu,711791,2026-03-18
+CUST_000776,Oni Issac,Enterprise,+91-9223838514,victor15@example.org,Salem,Tamil Nadu,643542,2024-02-29
+CUST_000777,Nitara Iyengar,Retail,+91-9113194223,ekannan@example.com,Salem,Tamil Nadu,158216,2026-03-26
+CUST_000778,Chatura Sarin,Enterprise,+91-9511221078,taraksha@example.org,Kochi,Kerala,297655,2025-05-23
+CUST_000779,Laban Shankar,Wholesale,+91-9137971349,jagratimadan@example.org,Jaipur,Rajasthan,345422,2025-03-04
+CUST_000780,Azad Bhasin,Retail,+91-9546952114,laban17@example.com,Mumbai,Maharashtra,394435,2025-07-10
+CUST_000781,Hemal Kannan,E-Commerce,+91-9713682070,naksh92@example.net,Pune,Maharashtra,235201,2026-02-04
+CUST_000782,Gabriel Sabharwal,Enterprise,+91-9156556289,lkalita@example.com,Madurai,Tamil Nadu,344027,2025-09-17
+CUST_000783,Akshay Sangha,E-Commerce,+91-9149315449,yugnarang@example.com,Delhi,Delhi,182275,2026-03-18
+CUST_000784,Manthan Ahluwalia,E-Commerce,+91-9403124688,cbasu@example.com,Tirupati,Andhra Pradesh,453200,2025-11-21
+CUST_000785,Pavani Wali,Retail,+91-9590427473,zsrinivas@example.net,Chennai,Tamil Nadu,496840,2024-02-29
+CUST_000786,Warhi Khosla,Retail,+91-9705382875,aroraniharika@example.org,Tirupati,Andhra Pradesh,762967,2024-04-23
+CUST_000787,Chakrika Khare,Retail,+91-9495430792,babuvarsha@example.net,Ahmedabad,Gujarat,314916,2025-01-15
+CUST_000788,Tripti Bajwa,E-Commerce,+91-9686863518,xsheth@example.org,Salem,Tamil Nadu,267881,2025-06-20
+CUST_000789,Kamala Shetty,Retail,+91-9540272920,boballekha@example.net,Chennai,Tamil Nadu,354316,2025-02-28
+CUST_000790,Chaman Sandhu,Enterprise,+91-9782837348,sarthak19@example.com,Chennai,Tamil Nadu,461292,2023-12-24
+CUST_000791,Charan Choudhry,Retail,+91-9805774632,dpau@example.net,Delhi,Delhi,432449,2023-12-02
+CUST_000792,Jeevika Gill,Retail,+91-9668883968,jayaramanlakshit@example.com,Salem,Tamil Nadu,550209,2024-10-04
+CUST_000793,Vanya Kadakia,Enterprise,+91-9164311845,ekanipandit@example.com,Kochi,Kerala,403419,2025-11-20
+CUST_000794,Aradhana Bhagat,Retail,+91-9348541776,pradhanhemani@example.com,Jaipur,Rajasthan,500587,2025-10-24
+CUST_000795,Upma Wali,Enterprise,+91-9903050869,siya95@example.net,Hyderabad,Telangana,718983,2024-01-09
+CUST_000796,Tanvi Chahal,Retail,+91-9243359401,ramanpraneel@example.com,Delhi,Delhi,188466,2024-01-27
+CUST_000797,Nitesh Majumdar,Enterprise,+91-9166875719,divanwatika@example.org,Jaipur,Rajasthan,247058,2024-08-12
+CUST_000798,Chaaya Saha,Retail,+91-9380236885,urvipalan@example.com,Mumbai,Maharashtra,522041,2025-08-19
+CUST_000799,Bishakha Gulati,E-Commerce,+91-9889579134,bainsvincent@example.net,Mumbai,Maharashtra,443508,2026-06-27
+CUST_000800,Nisha Oza,Enterprise,+91-9350838144,vedika98@example.net,Hyderabad,Telangana,322560,2025-08-21
+CUST_000801,Daksha Deo,Retail,+91-9926938633,onveer43@example.com,Coimbatore,Tamil Nadu,272960,2025-04-29
+CUST_000802,Champak Divan,Retail,+91-9582718617,bhavani72@example.net,Kolkata,West Bengal,439288,2024-06-05
+CUST_000803,Qabil Gill,Enterprise,+91-9675444604,neelkhanna@example.org,Pune,Maharashtra,327723,2023-12-02
+CUST_000804,Jonathan Sastry,Enterprise,+91-9597514616,kala23@example.net,Vellore,Tamil Nadu,235739,2023-11-22
+CUST_000805,Hemangini Divan,Retail,+91-9967150570,saumya82@example.net,Tirupati,Andhra Pradesh,742609,2025-01-10
+CUST_000806,Aryan Ravel,Retail,+91-9997567367,ddhillon@example.com,Mumbai,Maharashtra,265529,2024-05-29
+CUST_000807,Yashica Narula,Retail,+91-9366522892,urvi49@example.net,Pune,Maharashtra,525493,2024-05-15
+CUST_000808,Hamsini Chowdhury,Enterprise,+91-9827120114,ibaria@example.net,Tirupati,Andhra Pradesh,382805,2026-02-01
+CUST_000809,Darika Bakshi,E-Commerce,+91-9286689063,ckannan@example.com,Chennai,Tamil Nadu,534036,2024-02-20
+CUST_000810,Christopher Hayer,E-Commerce,+91-9696950800,arunimahayre@example.org,Salem,Tamil Nadu,209327,2024-02-06
+CUST_000811,Gagan Vala,Enterprise,+91-9963177562,fhayer@example.com,Kochi,Kerala,237353,2026-04-23
+CUST_000812,Jalsa Rao,Retail,+91-9991605503,prishapingle@example.com,Salem,Tamil Nadu,247065,2025-05-01
+CUST_000813,Bhavani Pai,Retail,+91-9530121446,darika78@example.org,Pune,Maharashtra,770915,2024-08-30
+CUST_000814,Ojasvi Savant,Wholesale,+91-9190236646,nihal66@example.org,Vellore,Tamil Nadu,188630,2026-03-30
+CUST_000815,Maanas Johal,Retail,+91-9169226321,vaishnavi85@example.org,Tiruchirappalli,Tamil Nadu,787367,2026-04-04
+CUST_000816,Gaurang Ahuja,Enterprise,+91-9238288872,amahajan@example.org,Hyderabad,Telangana,457656,2026-02-09
+CUST_000817,Laksh Iyengar,Retail,+91-9594989531,lakshmimann@example.net,Bengaluru,Karnataka,286150,2025-10-31
+CUST_000818,Chasmum Modi,Wholesale,+91-9565098113,osheth@example.org,Delhi,Delhi,630227,2023-10-03
+CUST_000819,Adweta Mital,Retail,+91-9833594284,pdash@example.net,Jaipur,Rajasthan,291202,2024-12-19
+CUST_000820,Praneel Swamy,Retail,+91-9300951978,ayushdar@example.com,Vellore,Tamil Nadu,403449,2025-11-03
+CUST_000821,Janaki Srivastava,Enterprise,+91-9259591761,okuruvilla@example.net,Bengaluru,Karnataka,753938,2025-10-08
+CUST_000822,Kashvi Vala,Enterprise,+91-9363909394,ladnicholas@example.net,Tirupati,Andhra Pradesh,633126,2023-12-29
+CUST_000823,Ekaja Shenoy,Enterprise,+91-9691297450,ishanvigade@example.org,Ahmedabad,Gujarat,173942,2024-11-26
+CUST_000824,Oni Parekh,Retail,+91-9511259527,mannbishakha@example.net,Kochi,Kerala,549600,2026-06-18
+CUST_000825,Yoshita Hari,Retail,+91-9955984774,girindraganesh@example.net,Salem,Tamil Nadu,771394,2025-02-12
+CUST_000826,Charvi Madan,Wholesale,+91-9683746914,gopal89@example.com,Chennai,Tamil Nadu,511079,2024-05-10
+CUST_000827,Laksh Vasa,E-Commerce,+91-9485593692,kashish76@example.com,Ahmedabad,Gujarat,680969,2024-06-09
+CUST_000828,Tejas Dubey,E-Commerce,+91-9469403820,raghavvora@example.net,Mumbai,Maharashtra,517248,2026-02-02
+CUST_000829,Omisha Sharma,Retail,+91-9127984900,dadakaran@example.org,Mumbai,Maharashtra,736122,2025-10-13
+CUST_000830,Devika Patil,Retail,+91-9970471079,riyavirk@example.com,Vellore,Tamil Nadu,171438,2024-06-23
+CUST_000831,Ayush Dani,E-Commerce,+91-9606467254,kabirdhar@example.net,Pune,Maharashtra,722357,2024-09-15
+CUST_000832,Jeremiah Kadakia,Wholesale,+91-9271395839,farhansandal@example.net,Coimbatore,Tamil Nadu,369897,2024-03-21
+CUST_000833,Anirudh Sule,Enterprise,+91-9386181187,mbasak@example.org,Bengaluru,Karnataka,340070,2023-11-19
+CUST_000834,Upasna Dani,Enterprise,+91-9956191734,caleb14@example.net,Delhi,Delhi,482040,2023-10-15
+CUST_000835,Jatin Jha,Wholesale,+91-9286521875,qasimpanchal@example.org,Madurai,Tamil Nadu,358042,2024-02-18
+CUST_000836,Arunima Pall,Enterprise,+91-9965661638,naveen89@example.org,Pune,Maharashtra,730299,2025-11-22
+CUST_000837,Hardik Atwal,Retail,+91-9852221438,rehaanmanda@example.org,Pune,Maharashtra,705226,2026-01-11
+CUST_000838,Hardik Kala,Enterprise,+91-9704633564,speri@example.net,Tiruchirappalli,Tamil Nadu,626138,2024-07-13
+CUST_000839,Hredhaan Golla,Enterprise,+91-9288502642,ladli63@example.net,Ahmedabad,Gujarat,149808,2024-09-17
+CUST_000840,Isaiah Murthy,Retail,+91-9349777425,shuklaimaran@example.net,Salem,Tamil Nadu,130897,2024-04-28
+CUST_000841,Jalsa Mani,Enterprise,+91-9100733897,butalafalak@example.com,Mumbai,Maharashtra,753967,2024-03-27
+CUST_000842,Bhanumati Shan,Retail,+91-9240112087,sachi38@example.com,Mumbai,Maharashtra,296081,2024-12-24
+CUST_000843,Ranbir Boase,Wholesale,+91-9447450846,lpillai@example.org,Bengaluru,Karnataka,132978,2025-11-01
+CUST_000844,Meghana Sarma,Retail,+91-9856661933,darluke@example.com,Kochi,Kerala,226309,2025-06-13
+CUST_000845,Om Bhattacharyya,E-Commerce,+91-9491797490,rushil53@example.net,Hyderabad,Telangana,501739,2025-06-19
+CUST_000846,Viraj Samra,E-Commerce,+91-9810966933,wmallick@example.net,Delhi,Delhi,724484,2026-03-21
+CUST_000847,Mugdha Parekh,Retail,+91-9424017866,fravel@example.net,Mumbai,Maharashtra,253080,2024-12-06
+CUST_000848,Suhani Chokshi,Wholesale,+91-9886356993,krishnavrishti@example.com,Jaipur,Rajasthan,780319,2024-09-22
+CUST_000849,Ayushman Chaudhary,Wholesale,+91-9797052007,birwishi@example.net,Mumbai,Maharashtra,292665,2023-11-10
+CUST_000850,Lavanya Narain,E-Commerce,+91-9703418543,chavvichar@example.org,Pune,Maharashtra,344082,2026-07-22
+CUST_000851,Unnati Jaggi,Enterprise,+91-9974513582,widisha78@example.com,Madurai,Tamil Nadu,506765,2026-01-19
+CUST_000852,Andrew Balay,Retail,+91-9839269574,ydani@example.com,Tirupati,Andhra Pradesh,243535,2025-01-30
+CUST_000853,Saanvi Sharaf,Retail,+91-9101930485,balipeter@example.net,Delhi,Delhi,705049,2026-07-20
+CUST_000854,Nitesh Swamy,Retail,+91-9746809909,tdesai@example.net,Mumbai,Maharashtra,751080,2025-05-26
+CUST_000855,Imaran Swaminathan,Retail,+91-9707254955,jsoni@example.org,Coimbatore,Tamil Nadu,630288,2025-11-25
+CUST_000856,Mahika Lall,Retail,+91-9900306310,npurohit@example.net,Hyderabad,Telangana,359557,2025-03-30
+CUST_000857,Ekani Bhat,Retail,+91-9443080569,bathkabir@example.com,Madurai,Tamil Nadu,777091,2025-03-24
+CUST_000858,Harita Rai,E-Commerce,+91-9195268824,sanghahemani@example.com,Mumbai,Maharashtra,578326,2025-06-30
+CUST_000859,Daksh Konda,Retail,+91-9325146786,wahabmuni@example.net,Salem,Tamil Nadu,181088,2024-02-08
+CUST_000860,Dalaja Contractor,Retail,+91-9945056299,omkaar08@example.com,Coimbatore,Tamil Nadu,111344,2023-11-27
+CUST_000861,Pahal Varma,Retail,+91-9570535289,bloke@example.net,Jaipur,Rajasthan,284419,2025-09-28
+CUST_000862,Edhitha Purohit,E-Commerce,+91-9629442753,knaidu@example.org,Delhi,Delhi,478293,2025-10-27
+CUST_000863,Samesh Nayar,Enterprise,+91-9208908082,zthakkar@example.net,Ahmedabad,Gujarat,716136,2025-03-10
+CUST_000864,Chandani Patla,Enterprise,+91-9837832868,fjaggi@example.net,Salem,Tamil Nadu,280558,2024-01-25
+CUST_000865,Bhavna Lanka,Enterprise,+91-9958128631,mishraneelima@example.org,Bengaluru,Karnataka,419235,2026-05-27
+CUST_000866,Girish Nayar,Retail,+91-9380383739,ekalinga98@example.com,Coimbatore,Tamil Nadu,187805,2025-07-24
+CUST_000867,Idika Bose,Retail,+91-9503144836,yamini46@example.net,Madurai,Tamil Nadu,188646,2026-01-15
+CUST_000868,Ryan Sachdeva,Enterprise,+91-9199970392,nkrishnamurthy@example.net,Mumbai,Maharashtra,732887,2025-09-03
+CUST_000869,Anirudh Varty,Wholesale,+91-9618334675,xalakkala@example.net,Chennai,Tamil Nadu,562276,2025-09-24
+CUST_000870,Radha Bhasin,Wholesale,+91-9277164387,janyashere@example.org,Jaipur,Rajasthan,274736,2024-10-07
+CUST_000871,Charita Saran,Retail,+91-9455510103,enagar@example.net,Tiruchirappalli,Tamil Nadu,309213,2024-08-11
+CUST_000872,Amara Mangat,Enterprise,+91-9694973692,aahanakeer@example.com,Vellore,Tamil Nadu,405199,2024-10-04
+CUST_000873,Mason Handa,Retail,+91-9202988942,korpaldayita@example.com,Bengaluru,Karnataka,521988,2025-10-23
+CUST_000874,Pahal Bansal,Enterprise,+91-9627151698,nathanielmahajan@example.org,Kochi,Kerala,167153,2023-11-14
+CUST_000875,Arunima Goda,Retail,+91-9559138405,sunderanmol@example.org,Hyderabad,Telangana,418858,2024-02-07
+CUST_000876,Chanchal Bhatt,E-Commerce,+91-9771186296,qpatla@example.net,Ahmedabad,Gujarat,319375,2024-02-17
+CUST_000877,Logan Keer,Retail,+91-9322214072,tellajai@example.net,Madurai,Tamil Nadu,779192,2026-07-27
+CUST_000878,Watika Chana,Retail,+91-9187978213,jasonmunshi@example.com,Ahmedabad,Gujarat,231120,2026-03-25
+CUST_000879,Warinder Sampath,Retail,+91-9526777316,maanaschhabra@example.org,Ahmedabad,Gujarat,622856,2024-08-27
+CUST_000880,Ria Rege,E-Commerce,+91-9384546308,daksh78@example.com,Hyderabad,Telangana,783046,2024-03-23
+CUST_000881,Pallavi Soman,Enterprise,+91-9298514700,arunimadhillon@example.com,Pune,Maharashtra,509975,2025-10-07
+CUST_000882,Darika Bail,Retail,+91-9578647558,bhagatwriddhish@example.com,Bengaluru,Karnataka,386086,2026-02-04
+CUST_000883,Dayamai Patil,Enterprise,+91-9382824466,warriorwarjas@example.com,Salem,Tamil Nadu,391608,2025-05-25
+CUST_000884,Maya Kumer,Enterprise,+91-9262275325,gautam34@example.org,Coimbatore,Tamil Nadu,199871,2024-06-04
+CUST_000885,Edhitha Ray,Enterprise,+91-9967776836,mahalfaris@example.com,Jaipur,Rajasthan,728373,2025-09-30
+CUST_000886,Gaurangi Sami,Retail,+91-9165480798,dyaladvika@example.net,Delhi,Delhi,657968,2024-01-11
+CUST_000887,Osha Narain,Enterprise,+91-9675004218,wbala@example.org,Ahmedabad,Gujarat,710535,2026-06-22
+CUST_000888,Sachi Deshpande,E-Commerce,+91-9611382735,rattanryan@example.net,Tirupati,Andhra Pradesh,192791,2025-01-16
+CUST_000889,Fitan Choudhry,Retail,+91-9866979905,zaidvarty@example.net,Bengaluru,Karnataka,636492,2026-07-04
+CUST_000890,Nirja Nagarajan,Enterprise,+91-9654928450,vsridhar@example.org,Kochi,Kerala,236125,2024-11-07
+CUST_000891,Falak Manda,Wholesale,+91-9582152746,fradosachdeva@example.com,Madurai,Tamil Nadu,285285,2024-07-08
+CUST_000892,Krishna Kapur,Wholesale,+91-9968078090,bajajveer@example.org,Tiruchirappalli,Tamil Nadu,242316,2025-09-17
+CUST_000893,Adweta Ganguly,Retail,+91-9184147554,rattanpushti@example.net,Jaipur,Rajasthan,321728,2024-11-07
+CUST_000894,Gaurav Pillai,Wholesale,+91-9773479021,jacobatwal@example.net,Kochi,Kerala,733953,2025-12-24
+CUST_000895,Sudiksha Talwar,Retail,+91-9880720904,kapursamar@example.org,Hyderabad,Telangana,201255,2024-11-16
+CUST_000896,Warda Raja,Retail,+91-9526656677,raaginijhaveri@example.net,Mumbai,Maharashtra,399618,2024-08-29
+CUST_000897,Ranbir Sahota,Enterprise,+91-9113275526,nilimadhingra@example.org,Jaipur,Rajasthan,227985,2024-12-23
+CUST_000898,Warinder Seshadri,Enterprise,+91-9259128258,kalashanker@example.org,Coimbatore,Tamil Nadu,220767,2023-10-16
+CUST_000899,Kiaan Naik,Enterprise,+91-9208437656,tkala@example.com,Tirupati,Andhra Pradesh,671653,2025-07-18
+CUST_000900,Elijah Chandran,E-Commerce,+91-9541189818,bengaurangi@example.org,Vellore,Tamil Nadu,511651,2025-09-30
+CUST_000901,Chakradev Ahluwalia,Enterprise,+91-9714205272,yamini96@example.com,Ahmedabad,Gujarat,149286,2025-06-04
+CUST_000902,Kevin Barman,Retail,+91-9532689999,abhagara@example.net,Kochi,Kerala,758277,2025-11-03
+CUST_000903,Upadhriti Deo,Enterprise,+91-9844813102,nadigrachita@example.org,Delhi,Delhi,150667,2024-11-07
+CUST_000904,Dhriti Basu,Retail,+91-9455939049,xalakmand@example.net,Salem,Tamil Nadu,161686,2025-04-12
+CUST_000905,Barkha Lall,E-Commerce,+91-9388390253,zansi56@example.org,Pune,Maharashtra,131216,2025-02-01
+CUST_000906,Matthew Sarraf,Retail,+91-9952177409,gulatimanthan@example.org,Tirupati,Andhra Pradesh,436054,2024-09-21
+CUST_000907,Balendra Singhal,Retail,+91-9627872109,nihal76@example.org,Coimbatore,Tamil Nadu,349031,2025-11-06
+CUST_000908,Riya Parikh,Retail,+91-9898567178,fshankar@example.org,Kolkata,West Bengal,446455,2024-05-16
+CUST_000909,Ikshita Chander,Retail,+91-9547506309,bhanumatigole@example.org,Hyderabad,Telangana,307065,2025-11-28
+CUST_000910,Simon Agrawal,Enterprise,+91-9984730446,omajabose@example.org,Jaipur,Rajasthan,617994,2025-11-11
+CUST_000911,Falguni Bal,E-Commerce,+91-9501483027,jairaj65@example.net,Bengaluru,Karnataka,650300,2024-03-12
+CUST_000912,Mitesh Balakrishnan,E-Commerce,+91-9170455681,sharmavarsha@example.com,Tirupati,Andhra Pradesh,641414,2026-06-02
+CUST_000913,Abdul Narayan,Enterprise,+91-9938073130,sethiekta@example.net,Chennai,Tamil Nadu,292177,2026-03-02
+CUST_000914,Siddharth Bava,Retail,+91-9994351711,ekantika01@example.net,Tiruchirappalli,Tamil Nadu,170427,2026-04-22
+CUST_000915,George Rastogi,Retail,+91-9590108029,pranav36@example.org,Bengaluru,Karnataka,487881,2023-10-31
+CUST_000916,Nicholas Rama,E-Commerce,+91-9394181098,pmane@example.net,Pune,Maharashtra,596769,2024-05-26
+CUST_000917,Chanchal Swaminathan,Enterprise,+91-9782266083,rmukherjee@example.net,Coimbatore,Tamil Nadu,142048,2024-04-20
+CUST_000918,Gopal Pillai,Retail,+91-9624830763,vrishtisehgal@example.com,Kolkata,West Bengal,296210,2025-10-09
+CUST_000919,Pallavi Chana,Wholesale,+91-9609578849,npillay@example.org,Pune,Maharashtra,470972,2025-08-04
+CUST_000920,Girik Baria,Retail,+91-9377733976,ubika32@example.com,Hyderabad,Telangana,408917,2025-12-27
+CUST_000921,Bina Sidhu,Retail,+91-9153312407,zbuch@example.com,Madurai,Tamil Nadu,710057,2025-01-08
+CUST_000922,Joshua Mital,E-Commerce,+91-9330122826,prishamerchant@example.net,Salem,Tamil Nadu,788828,2023-12-13
+CUST_000923,Chakradev Varghese,Retail,+91-9321975705,uppalpavani@example.com,Vellore,Tamil Nadu,793239,2024-02-23
+CUST_000924,Zehaan Pant,Enterprise,+91-9121531054,finn80@example.org,Chennai,Tamil Nadu,607127,2026-07-23
+CUST_000925,Praneel Gopal,Wholesale,+91-9795109916,fbath@example.com,Madurai,Tamil Nadu,740344,2025-01-04
+CUST_000926,Suhani Sengupta,E-Commerce,+91-9340271240,harita23@example.org,Vellore,Tamil Nadu,747895,2024-01-29
+CUST_000927,Hitesh Saraf,E-Commerce,+91-9427984850,ahluwaliamegha@example.org,Vellore,Tamil Nadu,554394,2023-10-20
+CUST_000928,Vansha Sharma,E-Commerce,+91-9474423649,tsur@example.net,Kolkata,West Bengal,374240,2026-05-15
+CUST_000929,Megha Mittal,Retail,+91-9424425818,dasskrishna@example.org,Delhi,Delhi,722880,2024-07-22
+CUST_000930,Amol Guha,Retail,+91-9649233665,kadakiavasana@example.net,Pune,Maharashtra,698731,2024-05-12
+CUST_000931,Rajata Yohannan,Enterprise,+91-9753962570,gabrielmitra@example.com,Tirupati,Andhra Pradesh,422975,2024-05-17
+CUST_000932,Pahal Bains,Enterprise,+91-9617262695,ganesanmichael@example.net,Hyderabad,Telangana,462619,2025-08-21
+CUST_000933,Urishilla Bahri,Wholesale,+91-9787833374,mkibe@example.com,Mumbai,Maharashtra,400335,2026-03-02
+CUST_000934,Charan Nath,Retail,+91-9863531123,chauhanrachana@example.com,Tirupati,Andhra Pradesh,307510,2025-11-08
+CUST_000935,Balhaar Sura,Retail,+91-9921921869,gsunder@example.net,Salem,Tamil Nadu,169533,2026-05-06
+CUST_000936,Vincent Bhat,E-Commerce,+91-9961531511,samidiya@example.net,Delhi,Delhi,445110,2024-01-06
+CUST_000937,Omisha Solanki,Enterprise,+91-9874471936,talwaridika@example.com,Chennai,Tamil Nadu,797238,2025-08-07
+CUST_000938,Neel Mani,Enterprise,+91-9417403063,upasnapadmanabhan@example.com,Vellore,Tamil Nadu,548898,2024-09-24
+CUST_000939,Harinakshi Sidhu,Enterprise,+91-9891060070,chaayaramakrishnan@example.com,Bengaluru,Karnataka,721345,2026-07-09
+CUST_000940,Urmi Edwin,E-Commerce,+91-9714225883,barkhachadha@example.net,Tiruchirappalli,Tamil Nadu,469837,2025-10-19
+CUST_000941,Oscar Iyengar,E-Commerce,+91-9338760659,vyanjanachaudhuri@example.com,Ahmedabad,Gujarat,485912,2025-11-04
+CUST_000942,Wahab Kadakia,Enterprise,+91-9282521788,badamijagrati@example.com,Madurai,Tamil Nadu,418055,2025-04-06
+CUST_000943,Owen Thakur,Retail,+91-9237378973,bhattgeetika@example.com,Vellore,Tamil Nadu,696188,2024-03-25
+CUST_000944,Jai Kapur,E-Commerce,+91-9296568144,vkuruvilla@example.com,Mumbai,Maharashtra,796225,2023-12-11
+CUST_000945,Matthew Varma,Retail,+91-9481482646,bediraksha@example.com,Salem,Tamil Nadu,432003,2024-03-20
+CUST_000946,Harsh Barman,Enterprise,+91-9455749066,ganeshjacob@example.org,Pune,Maharashtra,383217,2025-04-13
+CUST_000947,Brinda Sathe,Enterprise,+91-9597959181,jchaudhary@example.net,Coimbatore,Tamil Nadu,603394,2025-04-17
+CUST_000948,Lakshit Das,Retail,+91-9781178315,revasagar@example.org,Hyderabad,Telangana,605159,2024-10-15
+CUST_000949,Harita Mangat,E-Commerce,+91-9637383490,fredericklata@example.com,Coimbatore,Tamil Nadu,510210,2025-07-05
+CUST_000950,Yatan Doshi,Enterprise,+91-9543570539,ikari@example.com,Bengaluru,Karnataka,268103,2025-07-03
+CUST_000951,Tara Varty,Retail,+91-9315066828,ayushman72@example.org,Mumbai,Maharashtra,539069,2025-12-11
+CUST_000952,Frado Nigam,Wholesale,+91-9591313587,neelima26@example.org,Kochi,Kerala,441753,2025-06-01
+CUST_000953,Matthew Bhardwaj,E-Commerce,+91-9293656603,oni68@example.com,Hyderabad,Telangana,621266,2025-01-29
+CUST_000954,Abhiram Mammen,Retail,+91-9289863614,netrasehgal@example.net,Mumbai,Maharashtra,775321,2024-08-13
+CUST_000955,Hemani Ravel,Retail,+91-9585388459,charvichad@example.org,Vellore,Tamil Nadu,329554,2026-01-11
+CUST_000956,Madhavi Date,E-Commerce,+91-9281039053,tanay18@example.net,Madurai,Tamil Nadu,623359,2025-01-27
+CUST_000957,Nathaniel Bajaj,E-Commerce,+91-9937252824,zachariaaarna@example.org,Hyderabad,Telangana,245692,2025-01-14
+CUST_000958,Yashasvi Choudhry,Enterprise,+91-9780202067,pradhanaashi@example.net,Jaipur,Rajasthan,532989,2025-11-26
+CUST_000959,Jatin Batta,Enterprise,+91-9612604642,senchanchal@example.net,Delhi,Delhi,114896,2023-10-08
+CUST_000960,Harinakshi Keer,Retail,+91-9314119421,inayamistry@example.com,Pune,Maharashtra,124761,2026-03-07
+CUST_000961,Krishna Venkatesh,E-Commerce,+91-9912659064,henrynarang@example.net,Tiruchirappalli,Tamil Nadu,128787,2026-03-22
+CUST_000962,Jalsa Sha,Enterprise,+91-9772899961,dinpavani@example.com,Salem,Tamil Nadu,347257,2024-02-04
+CUST_000963,David Sandal,Enterprise,+91-9469742752,vamakshikala@example.com,Tirupati,Andhra Pradesh,245194,2024-01-29
+CUST_000964,Neha Venkataraman,Retail,+91-9640453426,llalla@example.com,Tirupati,Andhra Pradesh,285134,2026-06-14
+CUST_000965,Ria Suri,Retail,+91-9149089708,jgaba@example.net,Tirupati,Andhra Pradesh,414956,2024-04-14
+CUST_000966,Tanvi Dayal,Enterprise,+91-9658655427,kalatamanna@example.com,Mumbai,Maharashtra,564731,2023-11-19
+CUST_000967,Kala Dani,E-Commerce,+91-9243655310,hchoudhary@example.com,Mumbai,Maharashtra,623990,2026-03-06
+CUST_000968,Banjeet Virk,Retail,+91-9302320914,jacobprabhu@example.com,Madurai,Tamil Nadu,532987,2025-05-03
+CUST_000969,Chaitaly Sunder,Retail,+91-9340863230,dharlucky@example.net,Kochi,Kerala,331450,2025-07-16
+CUST_000970,Dalaja Mander,E-Commerce,+91-9733177858,qadimsuresh@example.org,Madurai,Tamil Nadu,239145,2024-04-07
+CUST_000971,Ekansh Basu,Retail,+91-9798512415,ksrivastava@example.com,Bengaluru,Karnataka,503418,2026-02-24
+CUST_000972,Geetika Purohit,E-Commerce,+91-9374651533,wdeo@example.org,Bengaluru,Karnataka,732775,2025-11-22
+CUST_000973,Shivani Sen,Wholesale,+91-9810784787,eshanachakraborty@example.net,Coimbatore,Tamil Nadu,795316,2026-07-28
+CUST_000974,Lila Kaul,E-Commerce,+91-9151791998,inori@example.org,Coimbatore,Tamil Nadu,547021,2025-08-18
+CUST_000975,Gaurang Gandhi,Enterprise,+91-9232709191,morejatin@example.net,Vellore,Tamil Nadu,607441,2026-02-14
+CUST_000976,Reyansh Bera,E-Commerce,+91-9320648482,vamakshithakkar@example.org,Chennai,Tamil Nadu,425744,2024-04-03
+CUST_000977,Anirudh Maharaj,Enterprise,+91-9208426285,yatansawhney@example.org,Vellore,Tamil Nadu,763051,2026-01-05
+CUST_000978,Neelima Bath,Enterprise,+91-9247278210,vbajaj@example.com,Jaipur,Rajasthan,220011,2024-07-06
+CUST_000979,Arjun Wable,Enterprise,+91-9763248135,lavanya41@example.org,Coimbatore,Tamil Nadu,406440,2024-03-02
+CUST_000980,Bhavika Dhawan,Retail,+91-9214099789,aadhyachakraborty@example.org,Ahmedabad,Gujarat,318297,2025-01-18
+CUST_000981,Omkaar Bhargava,Enterprise,+91-9935327024,pratyush00@example.com,Vellore,Tamil Nadu,658559,2025-05-27
+CUST_000982,Ekaja Dhar,Wholesale,+91-9484315640,qnaik@example.com,Jaipur,Rajasthan,419699,2024-04-04
+CUST_000983,Samaksh Khatri,Retail,+91-9688559516,waidatrivedi@example.net,Ahmedabad,Gujarat,327783,2025-05-20
+CUST_000984,Amruta Bhat,Enterprise,+91-9616108982,ucchal86@example.org,Mumbai,Maharashtra,355897,2025-10-21
+CUST_000985,Nikita Kaur,Retail,+91-9821160591,luthraharrison@example.org,Hyderabad,Telangana,225796,2026-02-07
+CUST_000986,Daksha Ray,E-Commerce,+91-9818356830,ochacko@example.net,Ahmedabad,Gujarat,266390,2024-08-11
+CUST_000987,Kashvi Zachariah,Wholesale,+91-9937009907,yatanyogi@example.com,Hyderabad,Telangana,216211,2026-02-08
+CUST_000988,Benjamin Agarwal,Wholesale,+91-9791851361,pmann@example.org,Salem,Tamil Nadu,588939,2023-09-30
+CUST_000989,Vasatika Mahajan,Wholesale,+91-9417851397,lajita53@example.net,Vellore,Tamil Nadu,596831,2025-11-30
+CUST_000990,Chakradev Edwin,Retail,+91-9973143678,mitalgaurav@example.com,Madurai,Tamil Nadu,151361,2024-04-08
+CUST_000991,Ati Sankaran,E-Commerce,+91-9486777550,yamininadkarni@example.net,Mumbai,Maharashtra,556689,2025-03-15
+CUST_000992,Sneha Mahajan,E-Commerce,+91-9202003827,ekantaom@example.org,Bengaluru,Karnataka,120143,2025-09-13
+CUST_000993,Amol Deol,E-Commerce,+91-9812272035,soniaayush@example.org,Madurai,Tamil Nadu,454626,2024-06-25
+CUST_000994,Vrinda Ramaswamy,Retail,+91-9569992383,brahmbhattazaan@example.net,Vellore,Tamil Nadu,207467,2025-08-21
+CUST_000995,Ira Puri,Retail,+91-9467995726,lila20@example.org,Madurai,Tamil Nadu,229362,2025-09-17
+CUST_000996,Reyansh Saxena,Enterprise,+91-9590204687,kantanmol@example.com,Vellore,Tamil Nadu,514453,2025-04-07
+CUST_000997,Gautam Mitter,Enterprise,+91-9613511668,vivaantak@example.com,Jaipur,Rajasthan,790365,2023-11-26
+CUST_000998,Waida Kadakia,E-Commerce,+91-9279077296,hayremeghana@example.org,Coimbatore,Tamil Nadu,248949,2024-12-03
+CUST_000999,Onkar Hari,Enterprise,+91-9162971085,dhruvdave@example.net,Madurai,Tamil Nadu,218752,2024-01-09
+CUST_001000,Aashi Kari,Enterprise,+91-9734313309,rehaan08@example.net,Ahmedabad,Gujarat,706581,2024-10-26

@@ -1,0 +1,49 @@
+Location_ID,Location_Name,City,State,Latitude,Longitude,Location_Type
+LOC_0001,Chennai North Hub,Chennai,Tamil Nadu,13.105008,80.194702,Warehouse
+LOC_0002,Chennai South DC,Chennai,Tamil Nadu,13.046705,80.226414,Distribution Center
+LOC_0003,Chennai Gateway,Chennai,Tamil Nadu,13.120535,80.298972,Hub
+LOC_0004,Bengaluru North Hub,Bengaluru,Karnataka,13.034349,77.52851,Warehouse
+LOC_0005,Bengaluru South DC,Bengaluru,Karnataka,12.959107,77.519368,Distribution Center
+LOC_0006,Bengaluru Gateway,Bengaluru,Karnataka,12.926582,77.595457,Hub
+LOC_0007,Hyderabad North Hub,Hyderabad,Telangana,17.309246,78.438514,Warehouse
+LOC_0008,Hyderabad South DC,Hyderabad,Telangana,17.408982,78.493891,Distribution Center
+LOC_0009,Hyderabad Gateway,Hyderabad,Telangana,17.34027,78.500983,Hub
+LOC_0010,Coimbatore North Hub,Coimbatore,Tamil Nadu,11.066309,76.87684,Warehouse
+LOC_0011,Coimbatore South DC,Coimbatore,Tamil Nadu,11.065731,76.987502,Distribution Center
+LOC_0012,Coimbatore Gateway,Coimbatore,Tamil Nadu,10.99124,76.900677,Hub
+LOC_0013,Kochi North Hub,Kochi,Kerala,10.004354,76.241155,Warehouse
+LOC_0014,Kochi South DC,Kochi,Kerala,9.866039,76.202775,Distribution Center
+LOC_0015,Kochi Gateway,Kochi,Kerala,9.986799,76.283896,Hub
+LOC_0016,Madurai North Hub,Madurai,Tamil Nadu,9.974341,78.156557,Warehouse
+LOC_0017,Madurai South DC,Madurai,Tamil Nadu,9.930996,78.195499,Distribution Center
+LOC_0018,Madurai Gateway,Madurai,Tamil Nadu,9.905766,78.128127,Hub
+LOC_0019,Tiruchirappalli North Hub,Tiruchirappalli,Tamil Nadu,10.843205,78.723663,Warehouse
+LOC_0020,Tiruchirappalli South DC,Tiruchirappalli,Tamil Nadu,10.848373,78.717076,Distribution Center
+LOC_0021,Tiruchirappalli Gateway,Tiruchirappalli,Tamil Nadu,10.823231,78.632032,Hub
+LOC_0022,Salem North Hub,Salem,Tamil Nadu,11.620764,78.112302,Warehouse
+LOC_0023,Salem South DC,Salem,Tamil Nadu,11.597067,78.103247,Distribution Center
+LOC_0024,Salem Gateway,Salem,Tamil Nadu,11.60046,78.110476,Hub
+LOC_0025,Vellore North Hub,Vellore,Tamil Nadu,12.93821,79.110873,Warehouse
+LOC_0026,Vellore South DC,Vellore,Tamil Nadu,12.895729,79.086021,Distribution Center
+LOC_0027,Vellore Gateway,Vellore,Tamil Nadu,12.879216,79.202365,Hub
+LOC_0028,Tirupati North Hub,Tirupati,Andhra Pradesh,13.652486,79.436661,Warehouse
+LOC_0029,Tirupati South DC,Tirupati,Andhra Pradesh,13.576182,79.45586,Distribution Center
+LOC_0030,Tirupati Gateway,Tirupati,Andhra Pradesh,13.574944,79.399913,Hub
+LOC_0031,Mumbai North Hub,Mumbai,Maharashtra,19.154324,72.9001,Warehouse
+LOC_0032,Mumbai South DC,Mumbai,Maharashtra,19.085112,72.907238,Distribution Center
+LOC_0033,Mumbai Gateway,Mumbai,Maharashtra,19.130856,72.92186,Hub
+LOC_0034,Pune North Hub,Pune,Maharashtra,18.477048,73.781836,Warehouse
+LOC_0035,Pune South DC,Pune,Maharashtra,18.490872,73.819539,Distribution Center
+LOC_0036,Pune Gateway,Pune,Maharashtra,18.474157,73.927566,Hub
+LOC_0037,Delhi North Hub,Delhi,Delhi,28.764319,77.072848,Warehouse
+LOC_0038,Delhi South DC,Delhi,Delhi,28.72897,77.085801,Distribution Center
+LOC_0039,Delhi Gateway,Delhi,Delhi,28.770428,77.095916,Hub
+LOC_0040,Jaipur North Hub,Jaipur,Rajasthan,26.874781,75.74676,Warehouse
+LOC_0041,Jaipur South DC,Jaipur,Rajasthan,26.922219,75.749339,Distribution Center
+LOC_0042,Jaipur Gateway,Jaipur,Rajasthan,26.925934,75.850952,Hub
+LOC_0043,Kolkata North Hub,Kolkata,West Bengal,22.556504,88.318991,Warehouse
+LOC_0044,Kolkata South DC,Kolkata,West Bengal,22.652206,88.365424,Distribution Center
+LOC_0045,Kolkata Gateway,Kolkata,West Bengal,22.507146,88.291439,Hub
+LOC_0046,Ahmedabad North Hub,Ahmedabad,Gujarat,22.960044,72.591791,Warehouse
+LOC_0047,Ahmedabad South DC,Ahmedabad,Gujarat,23.069233,72.558946,Distribution Center
+LOC_0048,Ahmedabad Gateway,Ahmedabad,Gujarat,22.952664,72.552459,Hub

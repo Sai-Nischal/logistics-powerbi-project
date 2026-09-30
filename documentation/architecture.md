@@ -38,11 +38,14 @@ graph TD
 - **Role**: Implements a clean Star Schema with 5 Fact tables and 5 Dimension tables.
 - **DAX Engine**: Evaluates key logistics performance metrics (On-Time Delivery %, Cost per KM, Fleet Utilization, Average Delay Hours, YoY Growth).
 
-### E. Interactive Operations Dashboard
-- **Page 1**: Logistics Control Tower (High-level operational metrics & real-time monitoring)
-- **Page 2**: Delivery Performance (On-time analysis, delays by city & route)
-- **Page 3**: Fleet & Driver Analytics (Vehicle utilization, mileage, driver scorecard)
-- **Page 4**: Cost & Operations (Shipping costs, fuel efficiency, financial trends)
+### E. Interactive 7-Page Operations Dashboard Suite
+- **Page 1**: Executive Control Tower (Macro-level volume, fulfillment health, global SLA adherence)
+- **Page 2**: Real-Time Fleet Telemetry & IoT Operations (Live GPS map, speed radar, fuel monitoring, engine status)
+- **Page 3**: Delivery Performance & SLA Delay Analytics (Delay duration buckets, root-cause analysis, delayed route rankings)
+- **Page 4**: Fleet Utilization & Maintenance Management (Asset readiness, mileage quartiles, electric vs diesel efficiency)
+- **Page 5**: Driver Performance & Safety Scorecards (Objective driver rankings, experience vs on-time correlation, SLA compliance)
+- **Page 6**: Freight Cost & Financial Unit Economics (Freight vs fuel breakdown, cost per KM, corridor profitability)
+- **Page 7**: Customer & Order Demand Analytics (Customer segments, priority tier demand, revenue collection & payments)
 
 ---
 

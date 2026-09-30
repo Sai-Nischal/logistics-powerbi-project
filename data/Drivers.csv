@@ -1,0 +1,101 @@
+Driver_ID,Driver_Name,License_Type,Experience_Years,Phone,Rating,Employment_Date,Driver_Status
+DRV_0001,Aarnav Sane,Light Commercial,16,+91-9294627041,4.53,2025-06-21,Active
+DRV_0002,Ekantika Sankaran,Light Commercial,2,+91-9834937767,4.86,2026-05-03,Active
+DRV_0003,Anusha Dara,Heavy Transport,17,+91-9624117847,3.94,2025-08-21,Active
+DRV_0004,Warhi Pathak,Heavy Transport,4,+91-9380904676,4.59,2024-12-11,Active
+DRV_0005,Udarsh Batta,Light Commercial,18,+91-9924127682,4.69,2023-12-05,Active
+DRV_0006,Saumya Mutti,Heavy Transport,12,+91-9657379037,4.43,2022-10-08,Active
+DRV_0007,Robert Natt,Heavy Transport,15,+91-9810509206,4.67,2023-02-04,Active
+DRV_0008,Upkaar Sampath,Light Commercial,22,+91-9513258121,3.98,2023-01-23,Active
+DRV_0009,Ronith Gala,Light Commercial,3,+91-9112503578,4.57,2024-02-23,Active
+DRV_0010,Dev Chatterjee,Commercial,17,+91-9277601056,3.89,2022-11-12,Active
+DRV_0011,Rachana Bajwa,Heavy Transport,12,+91-9398668947,3.86,2025-04-07,Active
+DRV_0012,Zashil Kota,Light Commercial,14,+91-9533015368,4.78,2023-03-16,Active
+DRV_0013,William Oak,Commercial,20,+91-9581142194,3.91,2026-04-15,Active
+DRV_0014,Gauri Venkatesh,Commercial,5,+91-9634050562,4.69,2026-02-14,Active
+DRV_0015,Elijah Sarna,Commercial,15,+91-9138474240,4.47,2025-12-29,Active
+DRV_0016,Sanya Dash,Heavy Transport,21,+91-9764717221,4.57,2023-02-09,On Leave
+DRV_0017,Bahadurjit Purohit,Light Commercial,8,+91-9802867083,4.61,2024-01-29,On Leave
+DRV_0018,Joshua Bhatia,Commercial,3,+91-9976805431,4.07,2026-08-27,Active
+DRV_0019,Christopher Mitra,Light Commercial,21,+91-9744192644,4.37,2025-05-05,Active
+DRV_0020,Dominic Chaudry,Light Commercial,16,+91-9222431652,3.92,2025-08-17,Active
+DRV_0021,Charles Menon,Heavy Transport,12,+91-9481327572,4.8,2026-05-12,Suspended
+DRV_0022,Neelima Char,Commercial,19,+91-9660477218,4.25,2025-05-15,Active
+DRV_0023,Viraj Anne,Heavy Transport,17,+91-9250806165,4.79,2024-09-03,Active
+DRV_0024,Ucchal Sangha,Commercial,5,+91-9373041065,4.53,2026-06-27,Active
+DRV_0025,Harinakshi Bal,Commercial,8,+91-9590749409,4.79,2024-09-04,Active
+DRV_0026,Reyansh Chokshi,Commercial,5,+91-9912982916,4.3,2023-03-08,On Leave
+DRV_0027,Ekansh Hari,Light Commercial,20,+91-9232305596,4.73,2026-08-04,Active
+DRV_0028,Yashodhara Kunda,Light Commercial,20,+91-9641378026,3.96,2024-04-04,Active
+DRV_0029,Vasana Saxena,Light Commercial,3,+91-9694022242,4.92,2023-07-15,Active
+DRV_0030,Laksh Basu,Commercial,18,+91-9938679870,4.91,2023-01-01,Active
+DRV_0031,Devika Sarin,Light Commercial,7,+91-9884362665,4.78,2024-12-05,Active
+DRV_0032,Deepa Dhingra,Light Commercial,21,+91-9750860170,4.86,2023-05-16,Active
+DRV_0033,Dayamai Oza,Commercial,15,+91-9753901994,4.9,2023-12-26,Active
+DRV_0034,Abhiram Vasa,Commercial,14,+91-9468141835,4.96,2025-03-29,Active
+DRV_0035,Dakshesh Khanna,Heavy Transport,6,+91-9543182078,4.52,2024-11-25,On Leave
+DRV_0036,Pahal Padmanabhan,Light Commercial,11,+91-9853223780,4.46,2023-07-30,Active
+DRV_0037,Saksham Biswas,Light Commercial,19,+91-9779231134,4.06,2024-03-13,Active
+DRV_0038,Vamakshi Sibal,Light Commercial,11,+91-9837243267,4.21,2025-04-18,Active
+DRV_0039,Gautami Mistry,Light Commercial,22,+91-9290924932,4.4,2024-07-11,Active
+DRV_0040,Nicholas Cheema,Commercial,5,+91-9916875967,4.22,2024-09-04,Active
+DRV_0041,Warhi Kanda,Light Commercial,15,+91-9823963430,4.7,2026-08-29,Active
+DRV_0042,Udant Karpe,Commercial,15,+91-9967910655,3.82,2024-09-23,Active
+DRV_0043,William Srivastava,Commercial,6,+91-9156978109,4.6,2025-11-14,Active
+DRV_0044,Keya Jha,Heavy Transport,11,+91-9833784779,4.1,2024-06-12,Active
+DRV_0045,Abeer Patil,Light Commercial,11,+91-9319044298,4.7,2022-10-15,Active
+DRV_0046,Ishita Balan,Commercial,5,+91-9761541819,4.84,2025-02-07,Active
+DRV_0047,Lucky Mannan,Heavy Transport,22,+91-9702659666,4.27,2024-08-14,Active
+DRV_0048,Jagvi Bassi,Light Commercial,11,+91-9844034445,4.6,2022-11-15,On Leave
+DRV_0049,Rudra Mander,Commercial,15,+91-9946228305,4.97,2023-06-27,Active
+DRV_0050,Adweta Ghosh,Light Commercial,3,+91-9113921319,4.69,2024-03-10,Active
+DRV_0051,Pranav Hayre,Commercial,9,+91-9780525215,4.65,2022-11-02,Active
+DRV_0052,Adweta Chaudhuri,Light Commercial,19,+91-9892904680,4.52,2022-11-01,Active
+DRV_0053,Ladli Choudhry,Heavy Transport,11,+91-9581911354,4.01,2024-03-08,Active
+DRV_0054,Dalaja Shan,Heavy Transport,7,+91-9889285590,4.42,2023-10-08,Active
+DRV_0055,Kashish Garg,Commercial,10,+91-9697643222,4.12,2024-12-26,Active
+DRV_0056,Dhruv Dani,Commercial,2,+91-9454939091,4.36,2023-05-12,On Leave
+DRV_0057,Ranveer Handa,Heavy Transport,6,+91-9446421355,4.52,2025-01-04,Active
+DRV_0058,Kavya Nadkarni,Light Commercial,21,+91-9810699207,4.16,2025-04-18,Active
+DRV_0059,Yash Batra,Light Commercial,13,+91-9178255153,4.74,2025-12-28,Active
+DRV_0060,Chaitaly Dixit,Heavy Transport,7,+91-9658996745,3.88,2024-02-21,Active
+DRV_0061,Chatresh Mammen,Commercial,19,+91-9676637967,4.28,2026-06-16,Active
+DRV_0062,Yashoda Suresh,Heavy Transport,12,+91-9455479984,4.23,2023-08-21,Active
+DRV_0063,Upma Bhattacharyya,Light Commercial,18,+91-9609874021,5.0,2023-06-17,Active
+DRV_0064,Yashodhara Prasad,Light Commercial,2,+91-9223181755,4.6,2024-11-12,Active
+DRV_0065,Praneel Nagy,Light Commercial,21,+91-9766935087,4.09,2025-10-10,Active
+DRV_0066,Vasudha Talwar,Commercial,14,+91-9954920307,4.93,2024-10-04,Active
+DRV_0067,Nandini Bansal,Light Commercial,11,+91-9126527569,4.89,2023-08-17,Active
+DRV_0068,Samaksh Seth,Commercial,18,+91-9962017907,4.41,2026-06-01,Active
+DRV_0069,Meghana Kamdar,Commercial,22,+91-9306708606,4.18,2024-01-18,Active
+DRV_0070,Krishna Dugar,Heavy Transport,7,+91-9930344435,4.45,2026-04-30,Active
+DRV_0071,Aachal Chad,Heavy Transport,8,+91-9819766863,4.56,2023-04-26,Active
+DRV_0072,Chakrika Saxena,Light Commercial,15,+91-9997288545,3.92,2024-12-13,Active
+DRV_0073,Victor Barman,Light Commercial,15,+91-9794239754,4.78,2024-09-21,Active
+DRV_0074,Pooja Seshadri,Light Commercial,6,+91-9125504528,4.35,2024-09-25,Active
+DRV_0075,Nilima Pillai,Heavy Transport,4,+91-9158269903,4.01,2026-03-02,Active
+DRV_0076,Edhitha Mahajan,Heavy Transport,20,+91-9982207031,4.07,2024-05-15,Active
+DRV_0077,Praneel Sathe,Commercial,16,+91-9776690635,4.29,2023-09-28,Active
+DRV_0078,Faqid Parmer,Commercial,5,+91-9674274037,3.81,2026-07-31,Active
+DRV_0079,Chaitaly Thaker,Heavy Transport,20,+91-9148873346,4.64,2024-12-04,Active
+DRV_0080,Aradhana Kari,Light Commercial,5,+91-9411209672,4.74,2023-03-01,Active
+DRV_0081,Ekbal Parsa,Heavy Transport,11,+91-9921706952,4.91,2022-11-28,Active
+DRV_0082,Gauri Hegde,Light Commercial,2,+91-9608940398,3.99,2025-08-13,Active
+DRV_0083,Zashil Mittal,Light Commercial,14,+91-9955525741,4.76,2025-11-30,Active
+DRV_0084,Rayaan Devi,Light Commercial,6,+91-9420035728,4.61,2026-05-20,On Leave
+DRV_0085,Abhiram Mistry,Light Commercial,22,+91-9500645832,4.95,2023-12-11,Active
+DRV_0086,Netra Ravi,Light Commercial,6,+91-9232322744,3.85,2026-03-29,Active
+DRV_0087,Urmi Vala,Commercial,19,+91-9687900972,4.94,2025-12-25,Active
+DRV_0088,Mitali Kari,Light Commercial,13,+91-9327350811,4.3,2023-09-17,Active
+DRV_0089,Urvi Kaur,Light Commercial,6,+91-9272823429,4.02,2024-12-09,Active
+DRV_0090,Triya Oak,Commercial,8,+91-9223075021,4.02,2026-02-11,Active
+DRV_0091,Dhriti Guha,Heavy Transport,19,+91-9595279737,4.57,2024-07-27,Active
+DRV_0092,Shaurya Sarna,Light Commercial,4,+91-9369173782,3.92,2024-08-29,Active
+DRV_0093,Kavya Dewan,Commercial,12,+91-9483474399,3.95,2025-03-15,Active
+DRV_0094,Dalaja Andra,Heavy Transport,11,+91-9765200007,3.88,2024-11-14,Active
+DRV_0095,Harinakshi Kar,Commercial,16,+91-9452558912,4.54,2024-07-12,Active
+DRV_0096,Netra Yogi,Light Commercial,6,+91-9707256840,4.48,2024-01-08,Active
+DRV_0097,Arin Balay,Commercial,7,+91-9105188198,4.18,2023-05-04,Active
+DRV_0098,Ganga Raman,Light Commercial,22,+91-9568284652,4.13,2024-05-14,Active
+DRV_0099,Mahika Bhatt,Light Commercial,12,+91-9615346649,4.36,2025-01-07,Active
+DRV_0100,Raghav Soman,Commercial,17,+91-9692353117,3.93,2023-03-17,Active
